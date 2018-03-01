@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>meetmath</title>
-    <link href="http://meet-math.netlify.com/feed.xml" rel="self" />
-    <link href="http://meet-math.netlify.com" />
-    <updated>2018-03-01T21:53:36+07:00</updated>
+    <link href="http://meetmath.netlify.com/feed.xml" rel="self" />
+    <link href="http://meetmath.netlify.com" />
+    <updated>2018-03-01T22:06:00+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
-    <id>http://meet-math.netlify.com</id>
+    <id>http://meetmath.netlify.com</id>
 
     <entry>
         <title>Dimensi Tiga : Kubus</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meet-math.netlify.com/dimensi-tiga-kubus.html"/>
-        <id>http://meet-math.netlify.com/dimensi-tiga-kubus.html</id>
+        <link href="http://meetmath.netlify.com/dimensi-tiga-kubus.html"/>
+        <id>http://meetmath.netlify.com/dimensi-tiga-kubus.html</id>
 
         <updated>2018-02-28T23:45:37+07:00</updated>
             <summary></summary>
