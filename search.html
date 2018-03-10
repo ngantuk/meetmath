@@ -6,13 +6,16 @@
 					gcse.src   = 'https://cse.google.com/cse.js?cx=' + cx;
 					var s = document.getElementsByTagName('script')[0];
 					s.parentNode.insertBefore(gcse, s);
-				})();</script><gcse:searchresults-only></gcse:searchresults-only></div></main><footer class="footer"><div class="footer__copyright">Powered by Publii</div></footer></div><script defer="defer" src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script><script defer="defer" src="https://meetmath.netlify.com/assets/js/scripts.min.js?v=3b94d4998f24c4cebb952de3a9b15b22"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/x-mathjax-config">MathJax.Hub.Config({
-        extensions: ["tex2jax.js"],
-        jax: ["input/TeX", "output/HTML-CSS"],
-        tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-          processEscapes: true
-        },
-        "HTML-CSS": { availableFonts: ["TeX"] }
-      });</script><script type="text/javascript" src="path-to-MathJax/MathJax.js"></script></body></html>
+				})();</script><gcse:searchresults-only></gcse:searchresults-only></div></main><footer class="footer"><div class="footer__copyright">Powered by Publii</div></footer></div><script defer="defer" src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script><script defer="defer" src="https://meetmath.netlify.com/assets/js/scripts.min.js?v=3b94d4998f24c4cebb952de3a9b15b22"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/javascript">MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$','$']], displayMath: [['$$','$$']], processEscapes: true},
+        config: ["MMLorHTML.js"],
+        jax: ["input/TeX", "output/HTML-CSS", "output/NativeMML"],
+        extensions: ["MathMenu.js", "MathZoom.js"],
+        displayAlign: "left",
+        TeX : { extensions: ["color.js"]},
+        styles: {
+             ".MathJax": {
+               color: "rgb(12, 0, 142"
+             	}
+       		}
+      });</script></body></html>
