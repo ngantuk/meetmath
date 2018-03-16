@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://meetmath.netlify.com/tanya-jawab-4-turunan-trigonometri.html",
-            "url": "https://meetmath.netlify.com/tanya-jawab-4-turunan-trigonometri.html",
+            "id": "https://meetmath.netlify.com/201245-pembahasansoal-tanya-jawab-4.html",
+            "url": "https://meetmath.netlify.com/201245-pembahasansoal-tanya-jawab-4.html",
             "title": "Tanya Jawab 4 : Turunan Trigonometri",
             "content_html": "<p>Tanya jawab kali ni membahas tentang turunan trigonometri…</p>\n<p>Yang masih bingung silahkan disimak materi tanya jawab berikut….ok???!!!</p>\n<p>Tanya :</p>\n<p>Buktikan bahwa :</p>\n<p>$y=sin\\;x\\;\\;\\;maka\\;\\;\\;y\\;'=cos\\;x$</p>\n<p>dan</p>\n<p>$y=cos\\;x\\;\\;\\;maka\\;\\;\\;y\\;'=-sin\\;x$</p>\n<p>Jawab :</p>\n<p>Kita pakai rumus turunan</p>\n<p>$\\Large f'(x)=\\lim_{h\\rightarrow 0}\\frac{f(x+h)-f(x)}{h}$</p>\n<p>diketahui</p>\n<ul>\n<li>\n<p>$f(x)=sin\\;x$</p>\n</li>\n<li>\n<p>$f(x+h)=sin\\;(x+h)$</p>\n</li>\n</ul>\n<p>ingat rumus</p>\n<p>${\\color{Red} sin\\;A-sin\\;B=2.cos\\;\\frac 12(A+B).sin\\frac 12(A-B) }$</p>\n<p>maka</p>\n<p>\\begin{align*} sin(x+h)-sin\\;x&amp;=&amp;2.cos\\;\\frac 12(x+h+x).sin\\frac 12(x+h-x)\\\\&amp;=&amp;2.cos\\frac 12(2x+h).sin\\frac 12h\\end{align*}</p>\n<p>Kita subtitusikan ke rumus turunan</p>\n<p>\\begin{align*}f'(x)&amp;=&amp;\\lim_{h \\to 0}\\frac{f(x+h)-f(x)}{h}\\\\&amp;=&amp;\\lim_{h \\to 0}\\frac{sin\\;(x+h)-sin\\;x}{h}\\\\&amp;=&amp;\\lim_{h \\to 0}\\frac{2.cos\\frac 12(2x+h).sin\\frac 12h}{h}\\\\&amp;=&amp;\\lim_{h \\to 0}2.cos\\frac 12(2x+h).\\lim_{h \\to 0}\\frac{sin\\frac 12h}{h}\\\\&amp;=&amp;\\lim_{h \\to 0}2.cos\\frac 12(2x+h).\\frac 12\\\\&amp;=&amp;2.cos\\frac 12(2x+0).\\frac 12\\\\&amp;=&amp;2.cos\\;x.\\frac 12\\\\f'(x)&amp;=&amp;{\\color{Red} cos\\;x}\\end{align*}</p>\n<p>Nah… untuk $f(x)=cos\\;x$ berlakui cara yang sama, namun kita pakai rumus yang ini nieh…</p>\n<p>$\\Large {\\color{Red} cos\\;A-cos\\;B=-2.sin\\frac 12(A+B).sin\\frac 12(A-B) }$</p>\n<p>Silahkan dicoba sendiri yaaaah……</p>\n<p>Ok, gud Luck…</p>",
             "author": {
@@ -21,7 +21,7 @@
                    "Turunan"
             ],
             "date_published": "2018-03-11T12:12:00+07:00",
-            "date_modified": "2018-03-11T12:12:25+07:00"
+            "date_modified": "2018-03-17T06:40:56+07:00"
         },
         {
             "id": "https://meetmath.netlify.com/tanya-jawab-1-turunan.html",
