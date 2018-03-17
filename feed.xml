@@ -3,7 +3,7 @@
     <title>meetmath</title>
     <link href="https://meetmath.netlify.com/feed.xml" rel="self" />
     <link href="https://meetmath.netlify.com" />
-    <updated>2018-03-17T06:45:19+07:00</updated>
+    <updated>2018-03-17T07:09:30+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
@@ -59,11 +59,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/tanya-jawab-1-turunan.html"/>
-        <id>https://meetmath.netlify.com/tanya-jawab-1-turunan.html</id>
+        <link href="https://meetmath.netlify.com/48845-pembahasansoal-tanya-jawab.html"/>
+        <id>https://meetmath.netlify.com/48845-pembahasansoal-tanya-jawab.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T12:11:46+07:00</updated>
+        <updated>2018-03-17T07:02:01+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -101,11 +101,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/turunan-persamaan-garis-singgung-kurva-3.html"/>
-        <id>https://meetmath.netlify.com/turunan-persamaan-garis-singgung-kurva-3.html</id>
+        <link href="https://meetmath.netlify.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html"/>
+        <id>https://meetmath.netlify.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T12:10:52+07:00</updated>
+        <updated>2018-03-17T07:02:25+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -148,7 +148,7 @@
 </blockquote>
 <p>Nah materi dasarnya di atas jangan sampai terlupa yah, sekarang kita masuk materi yang sesungguhnya…hehehe…</p>
 <p>Perhatikan Gambar Grafik fungsi ${\color{DarkGreen} y=f(x)}$</p>
-<p><img src="../../../../../web/20170704230447im_/http://www.meetmath.com:80/static/media/636482-meetmath.com-kurva-2.jpg" alt="Kurva 2"></p>
+<p><img src="../../../../../web/20170704230447im_/http:/www.meetmath.com:80/static/media/636482-meetmath.com-kurva-2.jpg" alt="Kurva 2"></p>
 <p>Kemiringan (gradien) garis singgung kurva $y = f(x)$ di titik $A(a, f(a))$ adalah</p>
 <p>${\color{Red} m}=f'(a)=\lim\limits_{\Delta x\to 0}\frac{f(a+\Delta x)-f(a)}{\Delta x}$</p>
 <p>Persamaan garis lurus yang melalui titik $(x1, y1)$ dengan gradien $m$ adalah $y-y_1={\color{Red} m}(x-x_1)$ , sehingga</p>
@@ -244,11 +244,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/turunan-fungsi-trigonometri.html"/>
-        <id>https://meetmath.netlify.com/turunan-fungsi-trigonometri.html</id>
+        <link href="https://meetmath.netlify.com/18563-materi-turunan-fungsi-trigonometri.html"/>
+        <id>https://meetmath.netlify.com/18563-materi-turunan-fungsi-trigonometri.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T12:00:16+07:00</updated>
+        <updated>2018-03-17T07:03:00+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -426,11 +426,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/turunan-fungsi-aljabar.html"/>
-        <id>https://meetmath.netlify.com/turunan-fungsi-aljabar.html</id>
+        <link href="https://meetmath.netlify.com/3922-materi-turunan-fungsi-aljabar.html"/>
+        <id>https://meetmath.netlify.com/3922-materi-turunan-fungsi-aljabar.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T11:59:22+07:00</updated>
+        <updated>2018-03-17T07:03:21+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -497,11 +497,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/soal-turunan-3-trigonometri.html"/>
-        <id>https://meetmath.netlify.com/soal-turunan-3-trigonometri.html</id>
+        <link href="https://meetmath.netlify.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html"/>
+        <id>https://meetmath.netlify.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T11:57:22+07:00</updated>
+        <updated>2018-03-17T07:04:47+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -638,11 +638,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/soal-turunan-2-aljabar.html"/>
-        <id>https://meetmath.netlify.com/soal-turunan-2-aljabar.html</id>
+        <link href="https://meetmath.netlify.com/22999-pembahasansoal-soal-turunan-2.html"/>
+        <id>https://meetmath.netlify.com/22999-pembahasansoal-soal-turunan-2.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T11:51:42+07:00</updated>
+        <updated>2018-03-17T07:04:10+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -759,11 +759,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/soal-turunan-1-aljabar.html"/>
-        <id>https://meetmath.netlify.com/soal-turunan-1-aljabar.html</id>
+        <link href="https://meetmath.netlify.com/38342-pembahasansoal-soal-turunan.html"/>
+        <id>https://meetmath.netlify.com/38342-pembahasansoal-soal-turunan.html</id>
             <category term="Turunan"/>
 
-        <updated>2018-03-11T11:51:48+07:00</updated>
+        <updated>2018-03-17T07:05:17+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -846,11 +846,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/statistika-2.html"/>
-        <id>https://meetmath.netlify.com/statistika-2.html</id>
+        <link href="https://meetmath.netlify.com/14625-materi-statistika-2.html"/>
+        <id>https://meetmath.netlify.com/14625-materi-statistika-2.html</id>
             <category term="Statistika"/>
 
-        <updated>2018-03-11T11:48:20+07:00</updated>
+        <updated>2018-03-17T07:08:19+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -1148,11 +1148,11 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="https://meetmath.netlify.com/statistika-1.html"/>
-        <id>https://meetmath.netlify.com/statistika-1.html</id>
+        <link href="https://meetmath.netlify.com/02180-materi-statistika.html"/>
+        <id>https://meetmath.netlify.com/02180-materi-statistika.html</id>
             <category term="Statistika"/>
 
-        <updated>2018-03-11T11:48:25+07:00</updated>
+        <updated>2018-03-17T07:08:37+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
