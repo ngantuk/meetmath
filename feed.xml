@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>meetmath</title>
-    <link href="http://meetmath.com/feed.xml" rel="self" />
-    <link href="http://meetmath.com" />
-    <updated>2018-03-19T02:01:01+07:00</updated>
+    <link href="https://www.meetmath.com/feed.xml" rel="self" />
+    <link href="https://www.meetmath.com" />
+    <updated>2018-03-19T02:17:36+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
-    <id>http://meetmath.com</id>
+    <id>https://www.meetmath.com</id>
 
     <entry>
         <title>Tanya Jawab 4 : Turunan Trigonometri</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/201245-pembahasansoal-tanya-jawab-4.html"/>
-        <id>http://meetmath.com/201245-pembahasansoal-tanya-jawab-4.html</id>
+        <link href="https://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html"/>
+        <id>https://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T06:40:56+07:00</updated>
@@ -59,8 +59,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/48845-pembahasansoal-tanya-jawab.html"/>
-        <id>http://meetmath.com/48845-pembahasansoal-tanya-jawab.html</id>
+        <link href="https://www.meetmath.com/48845-pembahasansoal-tanya-jawab.html"/>
+        <id>https://www.meetmath.com/48845-pembahasansoal-tanya-jawab.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:02:01+07:00</updated>
@@ -101,8 +101,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html"/>
-        <id>http://meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html</id>
+        <link href="https://www.meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html"/>
+        <id>https://www.meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-19T01:59:36+07:00</updated>
@@ -148,7 +148,7 @@
 </blockquote>
 <p>Nah materi dasarnya di atas jangan sampai terlupa yah, sekarang kita masuk materi yang sesungguhnya…hehehe…</p>
 <p>Perhatikan Gambar Grafik fungsi ${\color{DarkGreen} y=f(x)}$</p>
-<img src="http://meetmath.com/media/posts/32/pgsTurunan.jpg" alt="" width="388" height="308">
+<img src="https://www.meetmath.com/media/posts/32/pgsTurunan.jpg" alt="" width="388" height="308">
 <p>Kemiringan (gradien) garis singgung kurva $y = f(x)$ di titik $A(a, f(a))$ adalah</p>
 <p>${\color{Red} m}=f'(a)=\lim\limits_{\Delta x\to 0}\frac{f(a+\Delta x)-f(a)}{\Delta x}$</p>
 <p>Persamaan garis lurus yang melalui titik $(x1, y1)$ dengan gradien $m$ adalah $y-y_1={\color{Red} m}(x-x_1)$ , sehingga</p>
@@ -244,8 +244,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/18563-materi-turunan-fungsi-trigonometri.html"/>
-        <id>http://meetmath.com/18563-materi-turunan-fungsi-trigonometri.html</id>
+        <link href="https://www.meetmath.com/18563-materi-turunan-fungsi-trigonometri.html"/>
+        <id>https://www.meetmath.com/18563-materi-turunan-fungsi-trigonometri.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:03:00+07:00</updated>
@@ -426,8 +426,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/3922-materi-turunan-fungsi-aljabar.html"/>
-        <id>http://meetmath.com/3922-materi-turunan-fungsi-aljabar.html</id>
+        <link href="https://www.meetmath.com/3922-materi-turunan-fungsi-aljabar.html"/>
+        <id>https://www.meetmath.com/3922-materi-turunan-fungsi-aljabar.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:03:21+07:00</updated>
@@ -497,8 +497,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html"/>
-        <id>http://meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html</id>
+        <link href="https://www.meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html"/>
+        <id>https://www.meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:04:47+07:00</updated>
@@ -638,8 +638,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/22999-pembahasansoal-soal-turunan-2.html"/>
-        <id>http://meetmath.com/22999-pembahasansoal-soal-turunan-2.html</id>
+        <link href="https://www.meetmath.com/22999-pembahasansoal-soal-turunan-2.html"/>
+        <id>https://www.meetmath.com/22999-pembahasansoal-soal-turunan-2.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:04:10+07:00</updated>
@@ -759,8 +759,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/38342-pembahasansoal-soal-turunan.html"/>
-        <id>http://meetmath.com/38342-pembahasansoal-soal-turunan.html</id>
+        <link href="https://www.meetmath.com/38342-pembahasansoal-soal-turunan.html"/>
+        <id>https://www.meetmath.com/38342-pembahasansoal-soal-turunan.html</id>
             <category term="Turunan"/>
 
         <updated>2018-03-17T07:05:17+07:00</updated>
@@ -846,8 +846,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/14625-materi-statistika-2.html"/>
-        <id>http://meetmath.com/14625-materi-statistika-2.html</id>
+        <link href="https://www.meetmath.com/14625-materi-statistika-2.html"/>
+        <id>https://www.meetmath.com/14625-materi-statistika-2.html</id>
             <category term="Statistika"/>
 
         <updated>2018-03-17T07:08:19+07:00</updated>
@@ -1148,8 +1148,8 @@
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://meetmath.com/02180-materi-statistika.html"/>
-        <id>http://meetmath.com/02180-materi-statistika.html</id>
+        <link href="https://www.meetmath.com/02180-materi-statistika.html"/>
+        <id>https://www.meetmath.com/02180-materi-statistika.html</id>
             <category term="Statistika"/>
 
         <updated>2018-03-17T07:08:37+07:00</updated>
