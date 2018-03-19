@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html",
+            "url": "http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html",
+            "title": "[video] - Pengantar Limit Fungsi Aljabar di x&#x3D;a",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/0n6GykM9BQ0\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
+            "author": {
+                "name": "tiena"
+            },
+            "tags": [
+                   "Video"
+            ],
+            "date_published": "2018-03-20T04:06:47+07:00",
+            "date_modified": "2018-03-20T04:09:12+07:00"
+        },
+        {
             "id": "http://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html",
             "url": "http://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html",
             "title": "Tanya Jawab 4 : Turunan Trigonometri",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2018-03-11T11:48:15+07:00",
             "date_modified": "2018-03-17T07:08:19+07:00"
-        },
-        {
-            "id": "http://www.meetmath.com/02180-materi-statistika.html",
-            "url": "http://www.meetmath.com/02180-materi-statistika.html",
-            "title": "Statistika 1",
-            "content_html": "<p>Wah, bicara tentang statistika kita akan berkutat dengan kehidupan sehari-hari mulai dari menghitung rata-rata uang saku perhari sampai perhitungan indeks ekonomi global…</p>\n<p>Namun jangan khawatir, materi statistika SMA maupun SMK mempelajari perhitungan ukuran pemusatan data dan ukuran penyebaran data baik data tunggal maupun data berkelompok. Berdasarkan pengalaman waktu sekolah dulu, akan lebih efektif jika kita rangkum materi statistika menjadi suatu tabel sederhana di bawah ini…</p>\n<p>Ukuran Pemusatan Data</p>\n<table>\n<thead>\n<tr>\n<th>Rumus</th>\n<th>Data Tunggal</th>\n<th>Data Berkelompok</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Rataan (mean)</td>\n<td>$\\bar{x} = \\frac{\\sum x_{i}}{n}$</td>\n<td>$\\bar{x} = \\frac{\\sum f_{i}.x_{i}}{\\sum f_i}$</td>\n</tr>\n<tr>\n<td>Modus</td>\n<td>Mo = nilai dg frekuensi tertinggi/paling sering muncul</td>\n<td>$Mo=T_B+ \\frac{d_1}{d_1+d_2}.i$</td>\n</tr>\n<tr>\n<td>Median</td>\n<td>ganjil $Me=x_{\\frac{n+1}{2}} $ genap $Me= \\frac 12.(x_{\\frac n2}+x_{\\frac n2+1})$</td>\n<td>$Me=T_B+\\frac{\\frac n2-f_k}{f_{Me}}.i$</td>\n</tr>\n<tr>\n<td>Kuartil</td>\n<td>$Q_i = x_{\\frac{i(n+1)}{4}}$ $_i = 1,2,3$</td>\n<td>$Q_i=T_B+\\frac{\\frac {i.n}{4}-f_k}{f_Q}.i$</td>\n</tr>\n<tr>\n<td>Desil</td>\n<td>$D_i = x_{\\frac{i(n+1)}{10}}$ $_i =1,2,3,4,5,6,7,8,9$</td>\n<td>$D_i=T_B+\\frac{\\frac {i.n}{10}-f_k}{f_D}.i$</td>\n</tr>\n</tbody>\n</table>\n<p>Untuk data tunggal, data diurutkan terlebih dahulu sehingga saat mencari median, kuartil dan desil kita tidak salah menentukan $x_i$ -nya.</p>\n<p>Yang pasti, selain hafal rumusnya juga harus tahu simbol dan cara menentukan nilainya yah Lihat keterangan berikut ini :</p>\n<table>\n<thead>\n<tr>\n<th> </th>\n<th> </th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>$x_i$</td>\n<td>= nilai ke- i (data tunggal)</td>\n</tr>\n<tr>\n<td>$x_i$</td>\n<td>= nilai tengah kelas ke-i (data berkelompok)</td>\n</tr>\n<tr>\n<td>$f_i$</td>\n<td>= frekuensi ke- i</td>\n</tr>\n<tr>\n<td>$n= \\sum f_i$</td>\n<td>= jumlah frekuensi/banyaknya data</td>\n</tr>\n<tr>\n<td>$T_B$</td>\n<td>= tepi bawah = (BB – 0,5)</td>\n</tr>\n<tr>\n<td>$d_1$</td>\n<td>= frekuensi kelas modus – frek kls di atasnya</td>\n</tr>\n<tr>\n<td>$d_2$</td>\n<td>= frekuensi kelas modus – frek kls di bawahnya</td>\n</tr>\n<tr>\n<td>$i$</td>\n<td>= interval/panjang kelas=BA-BB+1</td>\n</tr>\n<tr>\n<td>$f_k$</td>\n<td>= frekuensi kumulatif sebelum kelas yg dimaksuda</td>\n</tr>\n<tr>\n<td>$f_{Me}$</td>\n<td>= frekuensi kelas Median</td>\n</tr>\n<tr>\n<td>$f_Q$</td>\n<td>= frekuensi kelas kuartil</td>\n</tr>\n<tr>\n<td>$f_D$</td>\n<td>= frekuensi kelas desil</td>\n</tr>\n<tr>\n<td>*letak kls Median</td>\n<td>= $\\frac n2$</td>\n</tr>\n<tr>\n<td>*letak kls Kuartil</td>\n<td>= $\\frac{i.n}{4}$</td>\n</tr>\n<tr>\n<td>*letak kls Desil</td>\n<td>= $\\frac{i.n}{10}$</td>\n</tr>\n</tbody>\n</table>\n<p>Langsung ke contoh dan pembahasan soal data tunggal 1. Diketahui data sebagai berikut : 5, 6, 4, 8, 7, 3, 8, 9, 4, 10 . Tentukan $\\large \\bar x$, Modus, Median, Kuartil ke-3, dan desil ke-7 ! jawab :</p>\n<p>urutan data:</p>\n<table>\n<thead>\n<tr>\n<th>$x_1$</th>\n<th>$x_2$</th>\n<th>$x_3$</th>\n<th>$x_4$</th>\n<th>$x_5$</th>\n<th>$x_6$</th>\n<th>$x_7$</th>\n<th>$x_8$</th>\n<th>$x_9$</th>\n<th>$x_{10}$</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3,</td>\n<td>4,</td>\n<td>4,</td>\n<td>5,</td>\n<td>6,</td>\n<td>7,</td>\n<td>8,</td>\n<td>8,</td>\n<td>9,</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>\n<ol>\n<li>\\begin{array}{rcl} \\bar x &amp; = &amp; \\frac{3+4+4+5+6+7+8+8+9+10}{10}\\\\ &amp; = &amp; \\frac{64}{10}\\\\ &amp; = &amp; 6,4 \\end{array}</li>\n<li>\\begin{array}{rcl} Mo &amp; = &amp; 4 dan 8\\end{array}</li>\n<li>\\begin{array}{rcl} Me &amp; = &amp; \\frac 12.(x_5+x_6)\\\\ &amp; = &amp; \\frac 12.(6+7)\\\\ &amp; = &amp; 6,5 \\end{array}</li>\n<li>\\begin{array}{rcl} Q_3 &amp; = &amp; x_{\\frac{3(10+1)}{4}}\\\\ &amp; = &amp; x_{8,25}\\\\ &amp; = &amp; x_8+0,25(x_9-x_8)\\\\ &amp; = &amp; 8+0,25(9-8)\\\\ &amp; = &amp; 8,25\\end{array}</li>\n<li>\\begin{array}{rcl} D_7 &amp; = &amp; x_{\\frac{7(10+1)}{10}}\\\\ &amp; = &amp; x_{7,7}\\\\ &amp; = &amp; x_8+0,7(x_8-x_7)\\\\ &amp; = &amp; 8+0,7(8-8)\\\\ &amp; = &amp; 8\\end{array}</li>\n</ol>\n<p>Untuk data berkelompok, selanjutnya silahkan buka rangkuman materi <a href=\"../../../../../14625-materi-statistika-2.html\" title=\"Statistika 2\">Statistika Bagian 2</a></p>\n<p>Have a nice study here…</p>",
-            "author": {
-                "name": "tiena"
-            },
-            "tags": [
-                   "Statistika"
-            ],
-            "date_published": "2018-03-11T11:40:20+07:00",
-            "date_modified": "2018-03-17T07:08:37+07:00"
         }
     ]
 }

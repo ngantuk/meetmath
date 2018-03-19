@@ -3,12 +3,29 @@
     <title>meetmath</title>
     <link href="http://www.meetmath.com/feed.xml" rel="self" />
     <link href="http://www.meetmath.com" />
-    <updated>2018-03-20T04:01:50+07:00</updated>
+    <updated>2018-03-20T04:09:20+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
     <id>http://www.meetmath.com</id>
 
+    <entry>
+        <title>[video] - Pengantar Limit Fungsi Aljabar di x&#x3D;a</title>
+        <author>
+            <name>tiena</name>
+        </author>
+        <link href="http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html"/>
+        <id>http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html</id>
+            <category term="Video"/>
+
+        <updated>2018-03-20T04:09:12+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/0n6GykM9BQ0" allowfullscreen="allowfullscreen"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tanya Jawab 4 : Turunan Trigonometri</title>
         <author>
@@ -1140,174 +1157,6 @@
 </li>
 </ol>
 <p>oke…selamat mencoba….</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Statistika 1</title>
-        <author>
-            <name>tiena</name>
-        </author>
-        <link href="http://www.meetmath.com/02180-materi-statistika.html"/>
-        <id>http://www.meetmath.com/02180-materi-statistika.html</id>
-            <category term="Statistika"/>
-
-        <updated>2018-03-17T07:08:37+07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p>Wah, bicara tentang statistika kita akan berkutat dengan kehidupan sehari-hari mulai dari menghitung rata-rata uang saku perhari sampai perhitungan indeks ekonomi global…</p>
-<p>Namun jangan khawatir, materi statistika SMA maupun SMK mempelajari perhitungan ukuran pemusatan data dan ukuran penyebaran data baik data tunggal maupun data berkelompok. Berdasarkan pengalaman waktu sekolah dulu, akan lebih efektif jika kita rangkum materi statistika menjadi suatu tabel sederhana di bawah ini…</p>
-<p>Ukuran Pemusatan Data</p>
-<table>
-<thead>
-<tr>
-<th>Rumus</th>
-<th>Data Tunggal</th>
-<th>Data Berkelompok</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Rataan (mean)</td>
-<td>$\bar{x} = \frac{\sum x_{i}}{n}$</td>
-<td>$\bar{x} = \frac{\sum f_{i}.x_{i}}{\sum f_i}$</td>
-</tr>
-<tr>
-<td>Modus</td>
-<td>Mo = nilai dg frekuensi tertinggi/paling sering muncul</td>
-<td>$Mo=T_B+ \frac{d_1}{d_1+d_2}.i$</td>
-</tr>
-<tr>
-<td>Median</td>
-<td>ganjil $Me=x_{\frac{n+1}{2}} $ genap $Me= \frac 12.(x_{\frac n2}+x_{\frac n2+1})$</td>
-<td>$Me=T_B+\frac{\frac n2-f_k}{f_{Me}}.i$</td>
-</tr>
-<tr>
-<td>Kuartil</td>
-<td>$Q_i = x_{\frac{i(n+1)}{4}}$ $_i = 1,2,3$</td>
-<td>$Q_i=T_B+\frac{\frac {i.n}{4}-f_k}{f_Q}.i$</td>
-</tr>
-<tr>
-<td>Desil</td>
-<td>$D_i = x_{\frac{i(n+1)}{10}}$ $_i =1,2,3,4,5,6,7,8,9$</td>
-<td>$D_i=T_B+\frac{\frac {i.n}{10}-f_k}{f_D}.i$</td>
-</tr>
-</tbody>
-</table>
-<p>Untuk data tunggal, data diurutkan terlebih dahulu sehingga saat mencari median, kuartil dan desil kita tidak salah menentukan $x_i$ -nya.</p>
-<p>Yang pasti, selain hafal rumusnya juga harus tahu simbol dan cara menentukan nilainya yah Lihat keterangan berikut ini :</p>
-<table>
-<thead>
-<tr>
-<th> </th>
-<th> </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>$x_i$</td>
-<td>= nilai ke- i (data tunggal)</td>
-</tr>
-<tr>
-<td>$x_i$</td>
-<td>= nilai tengah kelas ke-i (data berkelompok)</td>
-</tr>
-<tr>
-<td>$f_i$</td>
-<td>= frekuensi ke- i</td>
-</tr>
-<tr>
-<td>$n= \sum f_i$</td>
-<td>= jumlah frekuensi/banyaknya data</td>
-</tr>
-<tr>
-<td>$T_B$</td>
-<td>= tepi bawah = (BB – 0,5)</td>
-</tr>
-<tr>
-<td>$d_1$</td>
-<td>= frekuensi kelas modus – frek kls di atasnya</td>
-</tr>
-<tr>
-<td>$d_2$</td>
-<td>= frekuensi kelas modus – frek kls di bawahnya</td>
-</tr>
-<tr>
-<td>$i$</td>
-<td>= interval/panjang kelas=BA-BB+1</td>
-</tr>
-<tr>
-<td>$f_k$</td>
-<td>= frekuensi kumulatif sebelum kelas yg dimaksuda</td>
-</tr>
-<tr>
-<td>$f_{Me}$</td>
-<td>= frekuensi kelas Median</td>
-</tr>
-<tr>
-<td>$f_Q$</td>
-<td>= frekuensi kelas kuartil</td>
-</tr>
-<tr>
-<td>$f_D$</td>
-<td>= frekuensi kelas desil</td>
-</tr>
-<tr>
-<td>*letak kls Median</td>
-<td>= $\frac n2$</td>
-</tr>
-<tr>
-<td>*letak kls Kuartil</td>
-<td>= $\frac{i.n}{4}$</td>
-</tr>
-<tr>
-<td>*letak kls Desil</td>
-<td>= $\frac{i.n}{10}$</td>
-</tr>
-</tbody>
-</table>
-<p>Langsung ke contoh dan pembahasan soal data tunggal 1. Diketahui data sebagai berikut : 5, 6, 4, 8, 7, 3, 8, 9, 4, 10 . Tentukan $\large \bar x$, Modus, Median, Kuartil ke-3, dan desil ke-7 ! jawab :</p>
-<p>urutan data:</p>
-<table>
-<thead>
-<tr>
-<th>$x_1$</th>
-<th>$x_2$</th>
-<th>$x_3$</th>
-<th>$x_4$</th>
-<th>$x_5$</th>
-<th>$x_6$</th>
-<th>$x_7$</th>
-<th>$x_8$</th>
-<th>$x_9$</th>
-<th>$x_{10}$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>3,</td>
-<td>4,</td>
-<td>4,</td>
-<td>5,</td>
-<td>6,</td>
-<td>7,</td>
-<td>8,</td>
-<td>8,</td>
-<td>9,</td>
-<td>10</td>
-</tr>
-</tbody>
-</table>
-<ol>
-<li>\begin{array}{rcl} \bar x &amp; = &amp; \frac{3+4+4+5+6+7+8+8+9+10}{10}\\ &amp; = &amp; \frac{64}{10}\\ &amp; = &amp; 6,4 \end{array}</li>
-<li>\begin{array}{rcl} Mo &amp; = &amp; 4 dan 8\end{array}</li>
-<li>\begin{array}{rcl} Me &amp; = &amp; \frac 12.(x_5+x_6)\\ &amp; = &amp; \frac 12.(6+7)\\ &amp; = &amp; 6,5 \end{array}</li>
-<li>\begin{array}{rcl} Q_3 &amp; = &amp; x_{\frac{3(10+1)}{4}}\\ &amp; = &amp; x_{8,25}\\ &amp; = &amp; x_8+0,25(x_9-x_8)\\ &amp; = &amp; 8+0,25(9-8)\\ &amp; = &amp; 8,25\end{array}</li>
-<li>\begin{array}{rcl} D_7 &amp; = &amp; x_{\frac{7(10+1)}{10}}\\ &amp; = &amp; x_{7,7}\\ &amp; = &amp; x_8+0,7(x_8-x_7)\\ &amp; = &amp; 8+0,7(8-8)\\ &amp; = &amp; 8\end{array}</li>
-</ol>
-<p>Untuk data berkelompok, selanjutnya silahkan buka rangkuman materi <a href="../../../../../14625-materi-statistika-2.html" title="Statistika 2">Statistika Bagian 2</a></p>
-<p>Have a nice study here…</p>
             ]]>
         </content>
     </entry>
