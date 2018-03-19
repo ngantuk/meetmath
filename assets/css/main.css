@@ -1109,6 +1109,7 @@ main {
   width: 66rem; }
 
 .post__video {
+  border: 1px solid #cecece;
   height: 0;
   overflow: hidden;
   padding-top: 1.5rem;

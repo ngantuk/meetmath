@@ -3,1160 +3,189 @@
     <title>meetmath</title>
     <link href="http://www.meetmath.com/feed.xml" rel="self" />
     <link href="http://www.meetmath.com" />
-    <updated>2018-03-20T04:09:20+07:00</updated>
+    <updated>2018-03-20T04:36:19+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
     <id>http://www.meetmath.com</id>
 
     <entry>
-        <title>[video] - Pengantar Limit Fungsi Aljabar di x&#x3D;a</title>
+        <title>[video] - Logaritma - Soal 1</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html"/>
-        <id>http://www.meetmath.com/video-pengantar-limit-fungsi-aljabar-di-xa.html</id>
+        <link href="http://www.meetmath.com/video-logaritma-soal-1.html"/>
+        <id>http://www.meetmath.com/video-logaritma-soal-1.html</id>
             <category term="Video"/>
+            <category term="Logaritma"/>
 
-        <updated>2018-03-20T04:09:12+07:00</updated>
+        <updated>2018-03-20T04:34:52+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/0n6GykM9BQ0" allowfullscreen="allowfullscreen"></iframe></figure>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/Kq_qDN4mhTw" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Tanya Jawab 4 : Turunan Trigonometri</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 6</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html"/>
-        <id>http://www.meetmath.com/201245-pembahasansoal-tanya-jawab-4.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-6.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-6.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T06:40:56+07:00</updated>
+        <updated>2018-03-20T04:34:09+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Tanya jawab kali ni membahas tentang turunan trigonometri…</p>
-<p>Yang masih bingung silahkan disimak materi tanya jawab berikut….ok???!!!</p>
-<p>Tanya :</p>
-<p>Buktikan bahwa :</p>
-<p>$y=sin\;x\;\;\;maka\;\;\;y\;'=cos\;x$</p>
-<p>dan</p>
-<p>$y=cos\;x\;\;\;maka\;\;\;y\;'=-sin\;x$</p>
-<p>Jawab :</p>
-<p>Kita pakai rumus turunan</p>
-<p>$\Large f'(x)=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$</p>
-<p>diketahui</p>
-<ul>
-<li>
-<p>$f(x)=sin\;x$</p>
-</li>
-<li>
-<p>$f(x+h)=sin\;(x+h)$</p>
-</li>
-</ul>
-<p>ingat rumus</p>
-<p>${\color{Red} sin\;A-sin\;B=2.cos\;\frac 12(A+B).sin\frac 12(A-B) }$</p>
-<p>maka</p>
-<p>\begin{align*} sin(x+h)-sin\;x&amp;=&amp;2.cos\;\frac 12(x+h+x).sin\frac 12(x+h-x)\\&amp;=&amp;2.cos\frac 12(2x+h).sin\frac 12h\end{align*}</p>
-<p>Kita subtitusikan ke rumus turunan</p>
-<p>\begin{align*}f'(x)&amp;=&amp;\lim_{h \to 0}\frac{f(x+h)-f(x)}{h}\\&amp;=&amp;\lim_{h \to 0}\frac{sin\;(x+h)-sin\;x}{h}\\&amp;=&amp;\lim_{h \to 0}\frac{2.cos\frac 12(2x+h).sin\frac 12h}{h}\\&amp;=&amp;\lim_{h \to 0}2.cos\frac 12(2x+h).\lim_{h \to 0}\frac{sin\frac 12h}{h}\\&amp;=&amp;\lim_{h \to 0}2.cos\frac 12(2x+h).\frac 12\\&amp;=&amp;2.cos\frac 12(2x+0).\frac 12\\&amp;=&amp;2.cos\;x.\frac 12\\f'(x)&amp;=&amp;{\color{Red} cos\;x}\end{align*}</p>
-<p>Nah… untuk $f(x)=cos\;x$ berlakui cara yang sama, namun kita pakai rumus yang ini nieh…</p>
-<p>$\Large {\color{Red} cos\;A-cos\;B=-2.sin\frac 12(A+B).sin\frac 12(A-B) }$</p>
-<p>Silahkan dicoba sendiri yaaaah……</p>
-<p>Ok, gud Luck…</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/TsJN0ozffxI" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Tanya Jawab 1 : Turunan</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 5</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/48845-pembahasansoal-tanya-jawab.html"/>
-        <id>http://www.meetmath.com/48845-pembahasansoal-tanya-jawab.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-5.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-5.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T07:02:01+07:00</updated>
+        <updated>2018-03-20T04:33:34+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Berikut ini adalah jawaban dari pertanyaan-pertanyaan yang masuk</p>
-<p>Semoga membantu….</p>
-<p>Tanya :</p>
-<p>Tentukan turunan dari $\large f(x)=log\;2\left (\frac{sin\;x^2+e^{x^2}}{x+1} \right )$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>turunan fungsi logaritma :</p>
-<p>${\color{Red} f(x)=^alog\;g(x)}\;\;\;\;maka\;\;\;\;\;{\color{Red} f'(x)=\frac{g'(x)}{g(x)}\;^alog\;e}$</p>
-</li>
-<li>
-<p>$f(x)=log\;2\left (\frac{sin\;x^2+e^{x^2}}{x+1} \right )$ adalah fungsi logaritma dengan bilangan basis $a = 10$ , dan $g(x)= 2\left (\frac{sin\;x^2+e^{x^2}}{x+1} \right )$</p>
-</li>
-<li>
-<p>kita cari turunan dari fungsi $g(x)$ terlebih dahulu :</p>
-<p>\begin{align*}g(x) &amp; = &amp; 2\left (\frac{sin\;x^2+e^{x^2}}{x+1} \right )\\ &amp; = &amp; \frac{2sin\;x^2+2e^{x^2}}{x+1}\end{align*}</p>
-<p>ingat turunan fungsi pembagian !! kita misalkan :</p>
-<p>\begin{array}{lcl}u=2sin\;x^2+2e^{x^2} &amp; maka &amp; u'=4x.cos\;x^2+4x.e^{x^2}\\v=x+1 &amp; maka &amp; v'=1\end{array}</p>
-<p>maka :</p>
-<p>\begin{align*}g'(x) &amp; = &amp; \frac{u'.v-v'.u}{v^2}\\ &amp; = &amp; \frac{4x.cos\;x^2+4x.e^{x^2}(x+1)-1.(2.sin\;x^2+2.e^{x^2})}{(x+1)^2}\\ &amp; = &amp; \frac{4x^2.cos\;x^2+4x^2.e^{x^2}+4x.cos\;x^2+4x.e^{x^2}-2.sin\;x^2-2.e^{x^2}}{(x+1)^2}\\ &amp; = &amp; \frac{2(2x^2.cos\;x^2+2x^2.e^{x^2}+2x.cos\;x^2+2x.e^{x^2}-sin\;x^2-e^{x^2})}{(x+1)^2}\end{align*}</p>
-<p>kembali ke fungsi $f(x)$ , maka kita akan dapatkan turunan :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \frac{g'(x)}{g(x)}\;^alog\;e\\ &amp; = &amp; \left (\frac{\frac{2(2x^2.cos\;x^2+2x^2.e^{x^2}+2x.cos\;x^2+2x.e^{x^2}-sin\;x^2-e^{x^2})}{(x+1)^2}}{\frac{2(sin\;x^2+e^{x^2})}{(x+1)}} \right )log\;e\\ &amp; = &amp; \left (\frac{2x^2.cosx^2+2x^2.e^{x^2}+2x.cosx^2+2x.e^{x^2}-sinx^2-e^{x^2}}{(x+1)(sinx^2+e^{x^2})} \right )log\;e\\ &amp; = &amp; \left (\frac{2x^2.cosx^2+2x^2.e^{x^2}+2x.cosx^2+2x.e^{x^2}-sinx^2-e^{x^2}}{x.sinx^2+sinx^2+x.e^{x^2}+e^{x^2}} \right )log\;e\end{align*}</p>
-<p>Nah…seperti inilah hasil turunannya :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \frac{g'(x)}{g(x)}\;^alog\;e\\ &amp; = &amp; \left (\frac{\frac{2(2x^2.cos\;x^2+2x^2.e^{x^2}+2x.cos\;x^2+2x.e^{x^2}-sin\;x^2-e^{x^2})}{(x+1)^2}}{\frac{2(sin\;x^2+e^{x^2})}{(x+1)}} \right )log\;e\\ &amp; = &amp; \left (\frac{2x^2.cosx^2+2x^2.e^{x^2}+2x.cosx^2+2x.e^{x^2}-sinx^2-e^{x^2}}{(x+1)(sinx^2+e^{x^2})} \right )log\;e\\ &amp; = &amp; \left (\frac{2x^2.cosx^2+2x^2.e^{x^2}+2x.cosx^2+2x.e^{x^2}-sinx^2-e^{x^2}}{x.sinx^2+sinx^2+x.e^{x^2}+e^{x^2}} \right )log\;e\end{align*}</p>
-</li>
-</ul>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/13iAHxLgM84" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Turunan : Persamaan Garis Singgung Kurva</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 4</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html"/>
-        <id>http://www.meetmath.com/211013-materi-turunan-persamaan-garis-singgung-kurva.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-4.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-4.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-19T01:59:36+07:00</updated>
+        <updated>2018-03-20T04:32:43+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Dalam materi turunan terdapat sub bab mengenai Persamaan Garis Singgung suatu Kurva,lho… mari kita kupas materinya beserta latihan soal persamaan garis singgung kurva,yuks…</p>
-<p>Hayooooooo…</p>
-<p>Masih ingatkah kalian tentang persamaan garis lurus di tingkat SMP ???!!</p>
-<p>Materi itu berkaitan erat dengan materi yang akan kita bahas sekarang ini.</p>
-<p>Nah, sebelum menginjak ke inti materi persamaan garis singgung kurva, kita rangkum kembali yuk ingatan kita tentang cara menentukan gradien dan persamaan garis lurus .</p>
-<p>Gradien Garis disimbolkan dengan $\Large m$ dimana :</p>
-<ul>
-<li>
-<p>gradien pada persamaan garis $y={\color{Red} m}x+c$ adalah $m$</p>
-</li>
-<li>
-<p>gradien pada persamaan garis ${\color{Green} a}x+{\color{Blue} b}y=c$ adalah ${\color{Red} m}=-\frac{{\color{Green} a}}{{\color{Blue} b}}$</p>
-</li>
-<li>
-<p>gradien jika diketahui dua titik $(x1,y1)$ dan $(x2,y2)$ adalah ${\color{Red} m}=\frac{y_2-y_1}{x_2-x_1}$</p>
-</li>
-</ul>
-<blockquote>
-<p><strong>Gradien dua garis lurus : </strong></p>
-<ul>
-<li>
-<p>yang saling sejajar maka $m_1\; = \;m_2$</p>
-</li>
-<li>
-<p>yang saling tegak lurus maka $ m_1.m_2 \;=\; -1$</p>
-</li>
-</ul>
-<p><strong>Persamaan Garis Lurus :</strong></p>
-<ul>
-<li>
-<p>Jika diketahui satu titik $(x1,y1)$ dan gradien $m$, maka persamaan garisnya : $y-y_1={\color{Red} m}(x-x_1)$</p>
-</li>
-<li>
-<p>Jika diketahui dua titik $(x1,y1)$ dan $(x2,y2)$ maka persamaan garisnya : $\frac{y-y_1}{y_2-y_1} = \frac{x-x_1}{x_2-x_1}$</p>
-</li>
-</ul>
-</blockquote>
-<p>Nah materi dasarnya di atas jangan sampai terlupa yah, sekarang kita masuk materi yang sesungguhnya…hehehe…</p>
-<p>Perhatikan Gambar Grafik fungsi ${\color{DarkGreen} y=f(x)}$</p>
-<img src="http://www.meetmath.com/media/posts/32/pgsTurunan.jpg" alt="" width="388" height="308">
-<p>Kemiringan (gradien) garis singgung kurva $y = f(x)$ di titik $A(a, f(a))$ adalah</p>
-<p>${\color{Red} m}=f'(a)=\lim\limits_{\Delta x\to 0}\frac{f(a+\Delta x)-f(a)}{\Delta x}$</p>
-<p>Persamaan garis lurus yang melalui titik $(x1, y1)$ dengan gradien $m$ adalah $y-y_1={\color{Red} m}(x-x_1)$ , sehingga</p>
-<p>Persamaan Garis Singgung di titik $(a, f(a))$ pada kurva adalah</p>
-<p>${\color{Red} y-f(a)=f'(a)(x-a)}$</p>
-<p>ayooo langsung kita praktikkan…</p>
-<ol>
-<li>
-<p>Tentukan persamaan garis singgung kurva $y=x^2$ di titik $( -1 , 1)$ !</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>cari $m$ dulu di $ x = -1$</p>
-<p>\begin{array}{rcl}m &amp; = &amp; f'(a)\\ &amp; = &amp; 2x\\m &amp; = &amp; 2(-1)\\ &amp; = &amp; - 2\end{array}</p>
-</li>
-<li>
-<p>maka persamaan garris singgung kurva dengan gradien $m = -2$ di $( -1 , 1)$ adalah:</p>
-<p>\begin{array}{rcl}y-y_1 &amp; = &amp; m(x-x_1)\\y-1 &amp; = &amp; -2(x-(-1))\\y-1 &amp; = &amp; -2x-2\\y &amp; = &amp; - 2x-1\end{array}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Tentukan persamaan garis singgung kurva $ y=x^2$ di titik yang berabsis $ (-2) $ !</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>cari m dulu di absis $x = -2$</p>
-<p>\begin{array}{rcl}m &amp; = &amp; f'(-2)\\ &amp; = &amp; 2x\\m &amp; = &amp; 2(-2)\\ &amp; = &amp; - 4\end{array}</p>
-</li>
-<li>
-<p>Bandingkan dengan soal no.1, disini kita belum punya $y1$ sehingga kita cari terlebih dulu</p>
-<p>\begin{array}{rcl}y &amp; = &amp; x^2\\ &amp; = &amp; (-2)^2\\y_1 &amp; = &amp; 4\end{array}</p>
-</li>
-<li>
-<p>maka persamaan garis singgung kurva dengan gradien $m = -4$ di $( -2 , 4)$ adalah</p>
-<p>\begin{array}{rcl}y-y_1 &amp; = &amp; m(x-x_1)\\y-4 &amp; = &amp; -4(x-(-2))\\y-4 &amp; = &amp; -4x-8\\y &amp; = &amp; - 4x-4\end{array}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Tentukan persamaan garis singgung kurva $y=2x^2-3x$ yang sejajar garis $y = x $ !</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>cari gradien m dari persamaan garis lurus $y = x$ ingat $y={\color{Red} m}x+c$ maka $m = 1$ , diketerangan soal, garis saling sejajar, maka $m1 = m2 $= 1</p>
-</li>
-<li>
-<p>cari titik singgungnya $(x1,y1)$ ingat $m=f'(a)$ maka</p>
-<p>\begin{array}{rcl}m &amp; = &amp; f'(a)\\1 &amp; = &amp; 4x-3\\4x &amp; = &amp; 4\\x &amp; = &amp; 1 \end{array}</p>
-<p>$x1 = 1$ maka kita cari $y1$ dengan mensubtitusi $x =1$ ke $y=2x^2-3x$</p>
-<p>\begin{array}{rcl}y &amp; = &amp; 2x^2-3x\\&amp; = &amp; 2(1)^2-3(1)\\y &amp; = &amp; -1\end{array}</p>
-</li>
-<li>
-<p>maka persamaan garis singgung kurva dengan gradien $m = 1$ di $( 1 , -1) $ adalah</p>
-<p>\begin{array}{rcl}y-y_1 &amp; = &amp; m(x-x_1)\\y-(-1)&amp; = &amp; 1(x-1)\\y+1 &amp; = &amp; x-1\\y &amp; = &amp; x-2\end{array}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Tentukan Persamaan garis singgung pada kurva $y=-2x^2+6x+7$ yang terletak tegak lurus garis $ x – 2y +13 = 0$ !</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>cari gradien m dari persamaan garis lurus $x – 2y +13 = 0$</p>
-<p>ingat :</p>
-<p>$ {\color{Green} a}x+{\color{Blue} b}y=c$ maka ${\color{Red} m}=-\frac{{\color{Green} a}}{{\color{Blue} b}}$</p>
-<p>untuk $ x – 2y +13 = 0$ maka ${\color{Red} m}=-\frac{1}{(-2)}=\frac 12$</p>
-<p>keterangan soal garis saling tegak lurus, maka $m1 . m2 = – 1$</p>
-<p>\begin{align*}m_1.m_2 &amp; = &amp; -1\\\left ( \frac{1}{2} \right ) .m_2 &amp; = &amp; -1\\m_2 &amp; = &amp; (-1).\left ( \frac 21 \right )\\m_2 &amp; = &amp; -2\end{align*}</p>
-</li>
-<li>
-<p>cari titik singgungnya $(x1,y1)$ dengan $m = -2$</p>
-<p>ingat $m=f'(a)$ maka :</p>
-<p>\begin{align*}m &amp; = &amp; f'(a)\\-2 &amp; = &amp; -4x+6\\-4x &amp; = &amp; -2-6\\x &amp; = &amp; 2\end{align*}</p>
-<p>$x1 = 2$ maka kita cari $y1$ dengan mensubtitusi $x = 2$ ke $y=-2x^2+6x+7$</p>
-<p>\begin{array}{rcl}y &amp; = &amp; -2x^2+6x+7\\ &amp; = &amp; -2(2)^2+6(2)+7\\y &amp; = &amp; 11\end{array}</p>
-</li>
-<li>
-<p>maka persamaan garis singgung kurva dengan gradien $m = -2$ di titik $( 2 , 11)$ adalah</p>
-<p>\begin{array}{rcl}y-y_1 &amp; = &amp; m(x-x_1)\\y-11 &amp; = &amp; -2(x-2)\\y-11 &amp; = &amp; -2x+4\\y &amp; = &amp; -2x+15\\ &amp; atau &amp; \\ 2x+y-15 &amp; = &amp; 0\end{array}</p>
-</li>
-</ul>
-</li>
-</ol>
-<p>Alhamdulillah….selesai juga model soal yang berkaitan dengan persamaan garis singgung kurva….</p>
-<p>Jangan lupa untuk mencoba dengan soal yang lain yah…</p>
-<p>Semoga bermanfaat.</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/fyJmPq5ZNxE" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Turunan Fungsi Trigonometri</title>
+        <title>[video] - Logaritma - Contoh 1</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/18563-materi-turunan-fungsi-trigonometri.html"/>
-        <id>http://www.meetmath.com/18563-materi-turunan-fungsi-trigonometri.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-logaritma-contoh-1.html"/>
+        <id>http://www.meetmath.com/video-logaritma-contoh-1.html</id>
+            <category term="Video"/>
+            <category term="Logaritma"/>
 
-        <updated>2018-03-17T07:03:00+07:00</updated>
+        <updated>2018-03-20T04:31:33+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><a href="../../../../../3922-materi-turunan-fungsi-aljabar.html">Turunan fungsi aljabar</a> telah kalian kuasai, bagaimana dengan turunan fungsi trigonometri?</p>
-<p>mari kita pahami rumusnya serta berlatih di soal dan pembahasan turunan fungsi trigonometri bersama-sama, dijamin sukses dalam ujian kalian….</p>
-<p>Untuk menentukan turunan trigonometri sama dengan konsep awal mencari turunan, namun disini langsung kita ambil hasilnya….</p>
-<p>dimana $f' (x) = \underset{h\rightarrow 0}{lim}\:\frac{f(x + h) - f(x)}{h}$ maka</p>
-<p>Turunan pada fungsi trigonometri akan mempunyai rumus :</p>
-<p>$f(x) = sin\:x $ maka $f'(x)= cos\:x$</p>
-<p>$f(x) = cos\:x $ maka $ f'(x)= - sin\:x$</p>
-<p>$f(x) = a.sin\:(bx+c)$ maka $f'(x)= ab.cos\:(bx+c)$</p>
-<p>$f(x) = a.cos\:(bx+c)$ maka $f'(x)= -ab.sin\:(bx+c)$</p>
-<p>contoh:</p>
-<ol>
-<li>
-<p>$\:f(x)= 3cos\:x$ maka $f'(x)=-3sin\:x$</p>
-</li>
-<li>
-<p>$\:f(x)=2sin\:5x$ maka $f'(x)=10cos\:5x$</p>
-</li>
-<li>
-<p>$\:f(x)=4.cos(3x+\pi)$</p>
-</li>
-</ol>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; {-4}.3.sin(3x+\pi)\\ &amp; = &amp; {-12}.sin(3x+\pi)\end{array}</p>
-<p>Rumus rumus yang dipakai di turunan fungsi aljabar, berlaku pula untuk mengerjakan turunan fungsi trigonometri maupun gabungan keduanya lets try this….</p>
-<ol>
-<li>
-<p>$\:f(x)=sec\:x$ tentukan $f ‘(x)$ !</p>
-<p>Jawab :</p>
-<p>\begin{array}{rcl}f(x) &amp; = &amp; sec\:x\\ &amp; = &amp; \frac{1}{cos\:x}\end{array}</p>
-<p>\begin{array}{lcl}u=1 &amp; maka &amp; u'=0\\ v=cos\:x &amp; maka &amp; v'=-sin\:x\end{array}</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \frac{u'.v-v'.u}{v^2}\\ &amp; = &amp; \frac{0.cos\:x-(-sin\:x).1}{(cos\:x)^2}\\ &amp; = &amp; \frac{sin\:x}{cos^2\:x}\\ &amp; = &amp; \frac{sin\:x}{cos\:x}.\frac{1}{cos\:x}\\ &amp; = &amp; tan\:x.sec\:x\end{align*}</p>
-</li>
-<li>
-<p>$\:f(x)=(x^2+2).sin\:x$ tentukan $f ‘(x)$ !</p>
-<p>Jawab :</p>
-<p>\begin{array}{lcl}u=x^2+2&amp; maka &amp; u'=2x\\v=sin\:x &amp; maka &amp; v'=cos\:x\end{array}</p>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 2x.sin\:x+cos\:x.(x^2+2)\\ &amp; = &amp; 2x\:sin\:x+x^2.cos\:x+2\:cos\:x\end{array}</p>
-</li>
-</ol>
-<h2>Turunan ke-n</h2>
-<p>Diberikan fungsi $f(x)$, maka :</p>
-<blockquote>
-<p>turunan pertama dari $f(x)$ adalah $f' (x)$ ;</p>
-<p>turunan kedua dari $f(x)$ adalah $f'' (x)$ ;</p>
-<p>turunan ketiga dari $f(x)$ adalah $f''' (x)$ dst.</p>
-</blockquote>
-<ol>
-<li>
-<p>$\:f(x)=4x^2.cos\:x$ tentukan turunan kedua dari $f(x)$!</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>kita cari turunan pertama dulu ya..</p>
-<p>\begin{array}{lcl}u=4x^2 &amp; maka &amp; u'=8x\\ v=cos\:x &amp; maka &amp; v'=-sin\:x\end{array}</p>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 8x.cos\:x+(-sin\:x).4x^2\\ &amp; = &amp; 8x.cos\:x-4x^2.sin\:x\end{array}</p>
-</li>
-<li>
-<p>perhatikan untuk $f'(x)=8x.cos\:x-4x^2.sin\:x$ mempunyai dua suku kita misalkan bahwa suku-suku $f ‘(x)$ adalah a dan b dimana $f ‘(x) = a – b$ untuk mencari turunan kedua akan berlaku $f ”(x) = a’ – b’$ mari kita cari turunan masing-masing suku…</p>
-</li>
-<li>
-<p>ambil suku pertama dari $f ‘(x)$ kita misalkan $a=8x.cos\:x$</p>
-<p>\begin{array}{lcl}u=8x &amp; maka &amp; u'=8\\ v=cos\:x &amp; maka &amp; v'=-sin\:x\end{array}</p>
-<p>\begin{array}{rcl}a' &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 8.cos\:x+(-sin\:x).8x\\ &amp; = &amp; 8.cos\:x-8x.sin\:x\end{array}</p>
-</li>
-<li>
-<p>ambil suku kedua dari $f ‘(x)$ kita misalkan $b=4x^2.sin\:x$</p>
-<p>\begin{array}{lcl}u=4x^2 &amp; maka &amp; u'=8x\\ v=sin\:x &amp; maka &amp; v'=cos\:x\end{array}</p>
-<p>\begin{array}{rcl}b' &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 8x.sin\:x+(cos\:x).4x^2\\ &amp; = &amp; 8x.sin\:x+4x^2.cos\:x\end{array}</p>
-</li>
-<li>
-<p>nah, kembali ke $f''(x)=a'-b'$</p>
-<p>\begin{array}{rcl}f ''(x) &amp; = &amp; a'-b'\\ &amp; = &amp; (8.cos\:x-8x.sin\:x)-(8x.sin\:x+4x^2.cos\:x)\\ &amp; = &amp; 8.cos\:x-8x.sin\:x-8x.sin\:x-4x^2.cos\:x\\ &amp; = &amp; 8.cos\:x-16sin\:x-4x^2.cos\:x\end{array}</p>
-</li>
-</ul>
-<p>selesai,deh…..coba yang lain yuk!</p>
-</li>
-<li>
-<p>$\:f(x)=x.cos\:x+sin\:x$ tentukan turunan ke-empat dari $f(x)$ !</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>$f(x)=x.cos\:x+sin\:x$ mempunyai dua suku kita misalkan a dan b sehingga $f ‘(x) = a ‘ + b ‘$ cari turunan masing-masing suku dulu ya…</p>
-<p>$a=x.cos\:x$</p>
-<p>\begin{array}{lcl}u=x &amp; maka &amp; u'=1\\ v=cos\:x &amp; maka &amp; v'=-sin\:x\end{array}</p>
-<p>\begin{array}{rcl}a' &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 1.cos\:x+(-sin\:x).x\\ &amp; = &amp; cos\:x-x.sin\:x\end{array}</p>
-<p>$b=sin\:x$ maka $b'=cos\:x$</p>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; a'+b'\\ &amp; = &amp; (cos\:x-x.sin\:x)+(cos\:x)\\ &amp; = &amp; 2.cos\:x-x.sin\:x\end{array}</p>
-</li>
-<li>
-<p>$f'(x)=2.cos\:x-x.sin\:x$ mempunyai dua suku kita misalkan lagi c dan d sehingga $f ”(x) = c ‘ – d ‘$</p>
-<p>$c=2.cos\:x$ maka $c'=-2.sin\:x$</p>
-<p>$d=x.sin\:x$</p>
-<p>\begin{array}{lcl}u=x &amp; maka &amp; u'=1\\ v=sin\:x &amp; maka &amp; v'=cos\:x\end{array}</p>
-<p>\begin{array}{rcl}d' &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 1.sin\:x+cos\:x.x\\ &amp; = &amp; sin\:x+x.cos\:x\end{array}</p>
-<p>\begin{array}{rcl}f''(x)&amp; = &amp; c'-d'\\ &amp; = &amp; (-2.sin\:x)-(sin\:x+x.cos\:x)\\ &amp; = &amp; {-2}.sin\:x-sin\:x-x.cos\:x\\ &amp; = &amp; {-3}.sin\:x-x.cos\:x\end{array}</p>
-</li>
-<li>
-<p>$f''(x)=-3.sin\:x-x.cos\:x$ mempunyai dua suku, suku pertama langsung dapat kita turunkan dan turunan suku kedua dapat dilihat telah kita cari di atas $a=x.cos\:x$ maka $a'=cos\:x-x.sin\:x$</p>
-<p>sehingga :</p>
-<p>\begin{array}{rcl}f'''(x) &amp; = &amp; {-3}.cos\:x-(cos\:x-x.sin\:x)\\ &amp; = &amp; {-3}.cos\:x-cos\:x+x.sin\:x\\ &amp; = &amp; {-4}.cos\:x+x.sin\:x\end{array}</p>
-</li>
-<li>
-<p>$f'''(x)={-4}.cos\:x+x.sin\:x$ mempunyai dua suku, suku pertama langsung dapat kita turunkan dan turunan suku kedua dapat dilihat telah kita cari di atas $d=x.sin\:x$ maka $d'=sin\:x+x.cos\:x$</p>
-<p>sehingga :</p>
-<p>\begin{array}{rcl}f''''(x) &amp; = &amp; {-4}.(-sin\:x)+(sin\:x+x.cos\:x)\\ &amp; = &amp; {4}.sin\:x+sin\:x+x.cos\:x\\ &amp; = &amp; {5}.sin\:x+x.cos\:x\end{array}</p>
-</li>
-</ul>
-<p>waaaaah…..selesai !!!!</p>
-<p>begitu seterusnya hingga turunan ke-n …..coba sendiri dengan soal yang lain yah…!!</p>
-<p>ada yang bertanya soal seperti ini:</p>
-</li>
-<li>
-<p>Jika diketahui $y=sin\:x$ buktikan bahwa turunan ke-n yaitu $y^n=sin(x+\frac{\pi}{2}.n)$ !</p>
-<p>Jawab :</p>
-<p><strong> ingatlah kembali nilai sin x di tiap kuadran </strong></p>
-<p>$y=sin\:x$</p>
-<table>
-<thead>
-<tr>
-<th> </th>
-<th> </th>
-<th> </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>$y'=cos\:x$</td>
-<td>$=\:sin(\frac{\pi}{2}+x)$</td>
-<td>$=\:sin(x+\frac{\pi}{2}.1)$</td>
-</tr>
-<tr>
-<td>$y''=-sin\:x$</td>
-<td>$=\:sin({\pi}+x)$</td>
-<td>$=\:sin(x+\frac{\pi}{2}.2)$</td>
-</tr>
-<tr>
-<td>$y'''=-cos\:x$</td>
-<td>$=\:sin(\frac{3.\pi}{2}+x)$</td>
-<td>$=\:sin(x+\frac{\pi}{2}.3)$</td>
-</tr>
-<tr>
-<td>$y''''=sin\:x $</td>
-<td>$=\:sin({2.\pi}+x)$</td>
-<td>$=\:sin(x+\frac{\pi}{2}.4)$</td>
-</tr>
-<tr>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-</tr>
-<tr>
-<td>...</td>
-<td>...</td>
-<td>...</td>
-</tr>
-<tr>
-<td>dst</td>
-<td>dst</td>
-<td>dst</td>
-</tr>
-</tbody>
-</table>
-<p>sehingga $\large y^n=\:sin(x+\frac{\pi}{2}.n)$ terbukti</p>
-</li>
-</ol>
-<p>Untuk contoh latihan soal dan pembahasannya di <a href="../../../../../391086-pembahasansoal-soal-turunan-3-trigonometri.html">soal turunan trigonometri</a> yah….</p>
-<p>Pembaca yang bijak selalu meninggalkan jejak,hehehe….</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/hperaIU9a38" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Turunan Fungsi Aljabar</title>
+        <title>[video] - Logaritma Dasar</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/3922-materi-turunan-fungsi-aljabar.html"/>
-        <id>http://www.meetmath.com/3922-materi-turunan-fungsi-aljabar.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-logaritma-dasar.html"/>
+        <id>http://www.meetmath.com/video-logaritma-dasar.html</id>
+            <category term="Video"/>
+            <category term="Logaritma"/>
 
-        <updated>2018-03-17T07:03:21+07:00</updated>
+        <updated>2018-03-20T04:31:47+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Materi Turunan (derivatif) mencakup materi turunan fungsi aljabar,turunan fungsi trigonometri, gradien garis singgung dan persamaan garis singgung pada suatu kurva tertentu, titik stasioner, fungsi naik dan fungsi turun. Lumayan banyak juga,yah…kita coba mulai dari fungsi aljabar dulu.</p>
-<p>Turunan fungsi $f ‘ (x)$ didefinisikan sebagai :</p>
-<p class="msg msg--info">$\Large f' (x) = \underset{h\rightarrow 0}{lim}\:\frac{f(x + h) - f(x)}{h}$</p>
-<p>Rumus-rumus Turunan :</p>
-<p>untuk a = konstanta</p>
-<ul>
-<li>$\large f(x) = ax^n$ maka $\large f'(x) = an.x^{n-1}$</li>
-<li>$\large f(x) = a$ maka $\large f'(x) = 0$</li>
-<li>$\large f(x) = x$ maka $\large f'(x) = 1$</li>
-</ul>
-<p>jika $U = u(x) dan V = v(x)$ adalah suatu fungsi</p>
-<p>$f(x) = U + V$ maka $f'(x) = U' + V'$</p>
-<p>$f(x) = U - V$ maka $f'(x) = U' - V'$</p>
-<p>$f(x) = U\times V$ maka $f'(x) = U'.V + V'.U$</p>
-<p>$f(x) = \frac UV$ maka $f'(x) = \frac {U'.V - V'.U}{V^2}$</p>
-<p>$f(x) = U^n$ maka $f'(x) = n.U^{n-1}.U'$ dinamakan aturan rantai</p>
-<p>Jangan sampai lupa yah, setiap fungsi yang hendak diturunkan, pastikan dinyatakan dalam bentuk perpangkatan terlebih dulu, let’s cekidot …</p>
-<p>Contoh dan pembahasan turunan fungsi:</p>
-<ol>
-<li>
-<p>Tentukan turunan pertama dari :</p>
-<p>$f(x) = 2x^5$</p>
-<p>Jawab :</p>
-<p>\begin{array}{rcl} f'(x) &amp; = &amp; 2.5.x^{5-1}\\ &amp; = &amp; 10x^4\end{array}</p>
-</li>
-<li>
-<p>$f(x) = \frac 3x$</p>
-<p>Jawab :</p>
-<p>nyatakan dalam bentuk pangkat terlebih dulu menjadi $f(x) = 3.x^{-1}$ maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 3.(-1).x^{-1-1}\\ &amp; = &amp; (-3).x^{-2}\\ &amp; = &amp; -\frac{3}{x^2}\end{align*}</p>
-</li>
-<li>
-<p>$f(x) = \sqrt{7x}$</p>
-<p>Jawab :</p>
-<p>nyatakan dalam bentuk pangkat terlebih dulu menjadi $f(x) = \sqrt7 .\;x^{\frac{1}{2}}$ maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \sqrt 7. \frac 12.x^{\frac 12-1}\\ &amp; = &amp; \frac 12. \sqrt 7.x^{-\frac{1}{2}}\\ &amp; = &amp; \frac 12. \sqrt 7. \frac{1}{\sqrt x}\\ &amp; = &amp; \frac{\sqrt 7}{2\sqrt x}.\frac{\sqrt x}{\sqrt x}\\ &amp; = &amp; \frac{\sqrt{7x}}{2x}\end{align*}</p>
-</li>
-<li>
-<p>$\large f(x) = \frac{3x-2}{x+1}$</p>
-<p>Jawab :</p>
-<p>kita misalkan \begin{array}{rcl} U=3x-2 &amp; maka &amp; U'=3\\ V=x+1 &amp; maka &amp; V'=1\end{array}</p>
-<p>maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \frac{U'.V-V'.U}{V^2}\\ &amp; = &amp; \frac{(3)(x+1)-(1)(3x-2)}{(x+1)^2}\\ &amp; = &amp; \frac{3x+3-3x+2}{(x+1)^2}\\ &amp; = &amp; \frac{5}{(x+1)^2}\end{align*}</p>
-</li>
-<li>
-<p>$f(x) = (3x^2 -5)^4$</p>
-<p>Jawab :</p>
-<p>kita misalkan $U = 3x^2 -5$</p>
-<p>maka :</p>
-<p>$U'=6x$ dan $n = 4$</p>
-<p>lalu kita pakai $f'(x) = n.U^{n-1}.U'$ ( aturan rantai )</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 4.(3x^2-5)^{4-1}.6x\\ &amp; = &amp; 24x(3x^2-5)^3\end{align*}</p>
-</li>
-</ol>
-<p>berlatihlah untuk mencari turunan fungsi yang sederhana terlebih dahulu, lalu kembangkan dengan berlatih mencari turunan perkalian dan pembagian fungsi, setelah itu yang soal aturan rantai baru dimantapkan dengan sungguh-sungguh karena seringkali keluar sebagai soal ujian.</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/G55tIGBDTWE" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Soal Turunan 3 : Trigonometri</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 3</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html"/>
-        <id>http://www.meetmath.com/391086-pembahasansoal-soal-turunan-3-trigonometri.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-3.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-3.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T07:04:47+07:00</updated>
+        <updated>2018-03-20T04:29:17+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Soal dan pembahasan dibawah merupakan lanjutan dari soal turunan sebelumnya, namun dikhususkan untuk soal-soal turunan trigonometri. Jangan sampai lupa materi turunan trigonometri pada posting sebelumnya yah.</p>
-<p>Mari kita berlatih lagi dari contoh soal dan pembahasan turunan trigonometri berikut…cekidot !!!</p>
-<ol start="11">
-<li>
-<p>Turunan pertama dari $f(x) = 7 cos (5 – 3x)$ adalah $f ‘ (x) $= …..</p>
-<p>A. $35 sin (5 – 3x)$</p>
-<p>B. $- 15 sin (5 – 3x)$</p>
-<p>C. $21 sin (5 – 3x)$</p>
-<p>D. $- 21 sin (5 – 3x)$</p>
-<p>E. $- 35 sin (5 – 3x)$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>ingat : $f(x) = {\color{Red} a.cos\:(bx+c)}\;\;\;\;maka \;\;\;\;f'(x)= {\color{Red} -ab.sin\:(bx+c)}$</p>
-</li>
-<li>
-<p>maka:</p>
-<p>\begin{align*}f(x) &amp; = &amp; 7 cos (5 - 3x)\\f'(x) &amp; = &amp; -7.(-3).sin(5-3x)\\ &amp; = &amp; 21\;sin(5-3x) \end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Jika $f ‘(x)$ adalah turunan dari $f(x)$ dan jika $f(x) = ( 3x – 2 ) sin (2x + 1)$ maka $f ‘ (x)$ adalah …</p>
-<p>A. $3 cos ( 2x + 1 )$</p>
-<p>B. $6 cos ( 2x + 1 )$</p>
-<p>C. $3 sin ( 2x + 1 ) + (6x – 4) cos (2x + 1)$</p>
-<p>D. $(6x – 4) sin ( 2x + 1 ) + 3 cos ( 2x + 1 )$</p>
-<p>E. $3 sin ( 2x + 1) + ( 3x – 2 ) cos( 2x + 1 )$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>$f (x) = {\color{Red} (3x-2)}\;{\color{DarkGreen} sin( 2x + 1 )}$ kita misalkan terlebih dulu</p>
-<p>\begin{array}{lcl}{\color{Red} u}={\color{Red} 3x-2} &amp; maka &amp; u'=3 \\v={\color{DarkGreen} sin(2x+1)} &amp; maka &amp; v'=2\;cos(2x+1) \end{array}</p>
-</li>
-<li>
-<p>ingat rumus turunan perkalian dua fungsi :</p>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 3.{\color{DarkGreen} sin(2x+1)}+2cos(2x+1).({\color{Red} 3x-2})\\ &amp; = &amp; 3\;sin(2x+1)+(6x-4)\;cos(2x+1) \end{array}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Turunan pertama fungsi $f (x) = 5 sin x cos x$ adalah $f ‘ (x) $= …</p>
-<p>A. $5\;sin\; 2x$</p>
-<p>B. $5\; cos\; 2x$</p>
-<p>C. $5\; sin^2\; x\; cos\; x$</p>
-<p>D. $5\; sin\; x\; cos^2\; x$</p>
-<p>E. $5\; sin\; 2x\; cos\; x$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>$f (x) = {\color{Red} 5\;sin\;x}\;{\color{DarkGreen} cos\;x}$ kita misalkan terlebih dulu</p>
-<p>\begin{array}{lcl}{\color{Red} u}={\color{Red} 5sin\;x} &amp; maka &amp; u'=5cos\;x\\v={\color{DarkGreen} cos\;x} &amp; maka &amp; v'=-sin\;x \end{array}</p>
-</li>
-<li>
-<p>ingat rumus turunan</p>
-<p>\begin{array}{rcl}f'(x) &amp; = &amp; u'.v+v'.u\\ &amp; = &amp; 5cos\;x.{\color{DarkGreen} cos\;x}+(-sin\;x).({\color{Red} 5sin\;x})\\ &amp; = &amp; 5\;cos^2x-5\;sin^2x\\ &amp; = &amp; 5(cos^2x-sin^2x)\\ &amp; = &amp; 5.cos\;2x \end{array}</p>
-</li>
-</ul>
-<p>eitttts…..tapi cara yang satu ini lebih simple…kita bisa pakai neh,cekidot…</p>
-<ul>
-<li>
-<p>ingat bahwa $in\;2x=2\;sin\;x.cos\;x$</p>
-</li>
-<li>
-<p>sehingga :</p>
-<p>\begin{align*}f(x) &amp; = &amp; 5\;sin\;x\;cos\;x\\ &amp; = &amp; \frac{5}{2}.{\color{DarkBlue} 2.sin\;x.cos\;x}\\ &amp; = &amp; \frac 52.sin\;2x \end{align*}</p>
-</li>
-<li>
-<p>maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; \frac 52.2.cos\;2x\\ &amp; = &amp; 5\;cos\;2x\end{align*}</p>
-</li>
-</ul>
-<p>Dengan hasil yang sama namun lebih cepat dalam pengerjaannya…silahkan pilih cara yang lebih disukai…</p>
-</li>
-<li>
-<p>Jika $f(x)=sin^2 \left ( 2x+\frac{\pi}{6} \right )$ , maka nilai dari $f'(0)$ = …..</p>
-<p>A. $2\sqrt{3}$</p>
-<p>B. $2$</p>
-<p>C. $\sqrt{3}$</p>
-<p>D. $12\sqrt{3}$</p>
-<p>E. $\sqrt{2}$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>perlu diingat bahwa :</p>
-<p>\begin{align*}f(x) &amp; = &amp; sin^2\left ( 2x+\frac{\pi}{6} \right )\\ &amp; = &amp; \left ( {\color{Red} sin\left ( 2x+\frac{\pi}{6} \right )} \right )^2 \end{align*}</p>
-</li>
-<li>
-<p>nah, baru kita misalkan ${\color{Red} u}={\color{Red} sin\left ( 2x+\frac{\pi}{6} \right )}\;\;maka\;\;u'=2\;cos\left ( 2x+\frac{\pi}{6} \right )$</p>
-</li>
-<li>
-<p>fungsi menjadi $f(x)=u^2$ baru pakai aturan rantai $f'(x) = n.u^{n-1}.u'$</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 2.u.u'\\ &amp; = &amp; 2.{\color{Red} sin\left ( 2x+\frac{\pi}{6} \right )}.2cos\left ( 2x+\frac{\pi}{6} \right )\\f'(0) &amp; = &amp; 4.sin\left ( 2.0+\frac{\pi}{6} \right ).cos\left ( 2.0+\frac{\pi}{6} \right )\\ &amp; = &amp; 4.sin\left ( \frac{\pi}{6} \right ).cos\left ( \frac{\pi}{6} \right )\\ &amp; = &amp; 4.\frac 12.\frac 12\sqrt3\\ &amp; = &amp; \sqrt3\end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Turunan pertama dari $f(x)=sin^4(3-2x)$ adalah $f'(x)$ = ……</p>
-<p>A. $- 8\;sin^3(3-2x)\;cos(6-4x)$</p>
-<p>B. $– 8\;sin(3-2x)\;sin(6-4x)$</p>
-<p>C. $- 4\;sin^3(3-2x)\;cos(3-2x)$</p>
-<p>D. $- 4\;sin^2(3-2x)\;sin(6-4x)$</p>
-<p>E. $- 8\;sin(3-2x)\;sin(6-4x)$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>pengerjaannya hampir sama dengan soal no.4 kita misalkan terlebih dulu</p>
-<p>$u={\color{Red} sin(3-2x)}\;\;\;maka\;\;\;\;u'=-2.cos(3-2x)$</p>
-</li>
-<li>
-<p>didapat $f(x)=u^4$ kita pakai aturan rantai $f'(x)=n.u^{n-1}.u'$ maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 4.u^3.u'\\ &amp; = &amp; 4.{\color{Red} sin}^3{\color{Red} (3-2x)}.(-2)cos(3-2x)\\ &amp; = &amp; -8.sin^3(3-2x).cos(3-2x) \end{align*}</p>
-</li>
-</ul>
-<p>ups….saat kita cek di pilgan ternyata jawaban tersebut tidak ada pilihannya, so lanjut ke next step ….</p>
-<ul>
-<li>
-<p>ingat bahwa ${\color{DarkBlue} 2.sin\;x.cos\;x}={\color{DarkBlue} sin\;2x}$</p>
-<p>\begin{align*}f'(x) &amp; = &amp;-8.sin^3(3-2x).cos(3-2x)\\ &amp; = &amp; -4.{\color{DarkBlue} 2.sin(3-2x).cos(3-2x)}.sin^2(3-2x)\\ &amp; = &amp; -4.{\color{DarkBlue} sin\;2(3-2x)}.sin^2(3-2x)\\ &amp; = &amp; -4.sin(6-4x).sin^2(3-2x)\\ &amp; = &amp; -4\;sin^2(3-2x)\;sin(3-4x) \end{align*}</p>
-</li>
-</ul>
-</li>
-</ol>
-<p>taraaaaa…..selesai sudah latihan soal dan pembahasan turunan trigonometri kita… semoga bermanfaat yah….</p>
-<p>tunggu soal-soal berikutnya….</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/kJT1wlX0W5E" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Soal Turunan 2 : Aljabar</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 2</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/22999-pembahasansoal-soal-turunan-2.html"/>
-        <id>http://www.meetmath.com/22999-pembahasansoal-soal-turunan-2.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T07:04:10+07:00</updated>
+        <updated>2018-03-20T04:28:41+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div id="content" class="single">
-<p>Setelah mencoba soal turunan bagian pertama, mari kita coba latihan soal turunan dan pembahasan soal turunan yang lain yuk ……..jangan lupa rumus-rumus turunan kemarin yah !!!</p>
-<ol start="6">
-<li>
-<p>Jika $g(x)=\left ( 5-3x \right )^{10}$ maka $g ‘(2) = $ ….</p>
-<p>A. -30</p>
-<p>B. -10</p>
-<p>C. 30</p>
-<p>D. 60</p>
-<p>E. 90</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>misal $u=5-3x$ maka $u'=-3$ $n=10$</p>
-</li>
-<li>
-<p>kita pakai aturan rantai sehingga :</p>
-<p>\begin{align*}g'(x) &amp; = &amp; {\color{Red} n.u^{n-1}.u'}\\ &amp; = &amp; 10.(5-3x)^{10-1}.(-3)\\ &amp; = &amp; (-30)(5-3x)^9\\g'(2) &amp; = &amp; (-30)(5-3.2)^9\\ &amp; = &amp; (-30)(-1)^9\\ &amp; = &amp; 30 \end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Jika $f(x)=x^3-\frac{x}{x^2-1}$ maka $f ‘(x) = $…</p>
-<p>A. $3x^2+\frac{x^2+1}{(x^2-1)^2}$</p>
-<p>B. $3x^2-\frac{x^2-1}{(x^2-1)^2}$</p>
-<p>C. $x^2+\frac{3x+1}{(x^2-1)^2}$</p>
-<p>D. $x^2-\frac{3x+1}{(x^2-1)^2}$</p>
-<p>E. $3x^2-\frac{3x+1}{(x^2-1)^2}$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>terdapat dua suku yang harus diturunkan, kita turunkan suku yang pertama secara langsung dan suku yang kedua menggunakan rumus ${\color{Red} y=\frac uv}\;\;\; maka\;\;\;{\color{Red} y'=\frac{u'v-v'u}{v^2}}$</p>
-</li>
-<li>
-<p>perhatikan suku kedua misalkan :</p>
-<p>\begin{array}{lcl}u=x &amp; \Leftrightarrow &amp; u'=1\\v=x^2-1 &amp; \Leftrightarrow &amp; v'=2x \end{array}</p>
-<p>maka</p>
-<p>\begin{align*}f(x) &amp; = &amp; x^3-\frac{x}{x^2-1}\\f'(x) &amp; = &amp; 3x^2-\left [ \frac{u'.v-v'.u}{v^2} \right ]\\ &amp; = &amp; 3x^2-\left [ \frac{1.(x^2-1)-2x(x)}{(x^2-1)^2} \right ]\\ &amp; = &amp; 3x^2-\left [ \frac{x^2-1-2x^2}{(x^2-1)^2} \right ]\\ &amp; = &amp; 3x^2-\left [ \frac{-x^2-1}{(x^2-1)^2} \right ]\\ &amp; = &amp; 3x^2+\frac{x^2+1}{(x^2-1)^2} \end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Turunan pertama dari $\frac{(x+2)(x+1)}{(x+3)}$ adalah …..</p>
-<p>A. ${y}'=\frac{x^2+9x+7}{x^2+9}$</p>
-<p>B. ${y}'=\frac{x^2+6x+11}{x^2+6x+9}$</p>
-<p>C. ${y}'=\frac{x^2+6x+7}{x^2+6x+9}$</p>
-<p>D. ${y}'=\frac{x^2+9x+11}{x^2+6x+9}$</p>
-<p>E. $\frac{x^2+6x+11}{x^2+9}$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>untuk model soal yang seperti ini kita kalikan pembilangnya sehingga menjadi bentuk kuadrat, didapat $y=\frac{x^2+3x+2}{x+3}$ baru kita gunakan ${\color{Red} y=\frac uv}\;\;\;maka\;\;\;{\color{Red} y'=\frac{u'v-v'u}{v^2}}$</p>
-</li>
-<li>
-<p>misalkan</p>
-<p>\begin{array}{lcl}u=x^2+3x+2 &amp; \Leftrightarrow &amp; u'=2x+3\\v=x+3 &amp; \Leftrightarrow &amp; v'=1 \end{array}</p>
-</li>
-<li>
-<p>maka :</p>
-<p>\begin{align*}y' &amp; = &amp; \frac{u'.v-v'u}{v^2}\\ &amp; = &amp; \frac{(2x+3)(x+3)-(1)(x^2+3x+2)}{(x+3)^2}\\ &amp; = &amp; \frac{2x^2+9x+9-x^2-3x-2}{(x+3)^2}\\ &amp; = &amp; \frac{x^2+6x+7}{x^2+6x+9} \end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Diketahui $y=\sqrt{3-4x}$ maka $ \frac{\partial y}{\partial x}=$ ….</p>
-<p>A. $\frac{1}{2\sqrt{3-4x}}$</p>
-<p>B. $\frac{1}{\sqrt{3-4x}}$</p>
-<p>C. $\frac{2}{\sqrt{3-4x}}$</p>
-<p>D. $\frac{-1}{\sqrt{3-4x}}$</p>
-<p>E. $\frac{-2}{\sqrt{3-4x}}$</p>
-<p>Jawab :</p>
-<ul>
-<li>
-<p>nyatakan y dalam bentuk pangkat menjadi $y=\left ( 3-4x \right )^{\frac 12}$</p>
-</li>
-<li>
-<p>nah…ingat kita pakai aturan rantai</p>
-<p>\begin{align*}y' &amp; = &amp; n.u^{n-1}.u'\\ &amp; = &amp; \frac 12.(3-4x)^{\frac{1}{2}-1}.(-4)\\ &amp; = &amp; (-2)(3-4x)^{-\frac 12}\\ &amp; = &amp; \frac{-2}{\sqrt{3-4x}}\end{align*}</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Jika $f(3+2x)=4-2x+x^2$ maka $f ‘ (1)$ = …</p>
-<p>A. -4</p>
-<p>B. -2</p>
-<p>C. -1</p>
-<p>D. 0</p>
-<p>E. $\frac{1}{2}$</p>
-<p>Jawab :</p>
-<ul>
-<li>masih ingatkah materi komposisi fungsi ….???</li>
-<li>
-<p>kita misalkan : \begin{align*}{\color{Blue} 3+2x} &amp; = &amp; {\color{Blue} y}\\ {\color{Red} x} &amp; = &amp; \frac{y-3}{2}\end{align*}</p>
-</li>
-<li>
-<p>subitusikan ke $f(3+2x)=4-2x+x^2$ menjadi : \begin{align*}f({\color{Blue} 3+2x}) &amp; = &amp; 4-2{\color{Red} x}+{\color{Red} x}^2 \\f({\color{Blue} y}) &amp; = &amp; 4-2\left ( \frac{y-3}{2} \right )+\left (\frac{y-3}{2} \right )^2\\f(y) &amp; = &amp; 4-y+3+\left ( \frac{y^2-6y+9}{4} \right )\\ &amp; = &amp; \frac{16-4y+12+y^2-6y+9}{4}\\f(y) &amp; = &amp; \frac{y^2-10y+37}{4}\\f(x) &amp; = &amp; \frac {1}{4}x^2-\frac{10}{4}x+\frac{37}{4}\end{align*}</p>
-</li>
-<li>
-<p>baru kita turunkan tiap sukunya \begin{align*}f(x) &amp; = &amp; \frac 14x^2-\frac{10}{4}x+\frac{37}{4}\\f'(x) &amp; = &amp; \frac 12x^2-\frac{10}{4}\\f'(1) &amp; = &amp; \frac 12-\frac 52\\f'(1) &amp; = &amp; -\frac 42\\ &amp; = &amp; -2\end{align*}</p>
-</li>
-</ul>
-</li>
-</ol>
-<p>Selamat belajar…..yang semangat yah !!!!</p>
-</div>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jl3ebez57JQ" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Soal Turunan 1 : Aljabar</title>
+        <title>[video] - Limit Fungsi Trigonometri - Contoh 1</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/38342-pembahasansoal-soal-turunan.html"/>
-        <id>http://www.meetmath.com/38342-pembahasansoal-soal-turunan.html</id>
-            <category term="Turunan"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-1.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-1.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T07:05:17+07:00</updated>
+        <updated>2018-03-20T04:28:01+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div id="content" class="single">
-<p>Soal-soal turunan ini diambil dari soal ujian sekolah, Ebtanas, maupun Ujian Nasional.</p>
-<ol>
-<li>
-<p>Fungsi $f$ ditentukan oleh $f(x)=\frac{x^2+8x+12}{x+4}\: ;\:x\neq-4$ dan $f ‘$ adalah turunan pertama dari $f$. Maka nilai dari $f ‘(1) = $….</p>
-<p>a. $x^2+2x+3$</p>
-<p>b. $\frac 12x^2+2x-3$</p>
-<p>c. $\frac 12x^2+2x+3$</p>
-<p>d. $\frac 14x^2+2x-3$</p>
-<p>e. $\frac 12x^2+2x+3$</p>
-<p>Jawab :</p>
-<p>$\Large f(x)=\frac{x^2+8x+12}{x+4}$</p>
-<p>\begin{array}{rcl} misalkan:u=x^2+8x+12 &amp; maka &amp; u'=2x+8 \\ v=x+4 &amp; maka &amp; v'=1 \end{array}</p>
-<p>Maka :</p>
-<p>\begin{align*} f'(x) &amp; = &amp; \frac {u'.v - v'.u}{v^2}\\ &amp; = &amp; \frac {(2x + 8)(x + 4) - (1)(x^2 + 8x + 12)}{(x + 4)^2}\\ &amp; = &amp; \frac {2x^2 + 8x + 8x + 32 - x^2 - 8x - 12}{(x + 4)^2}\\ &amp; = &amp; \frac {x^2 + 8x + 20}{(x + 4)^2}\\ f'(1) &amp; = &amp; \frac {(1)^2+8(1)+20}{(1+4)^2}\\ &amp; = &amp; \frac {29}{25}\:jawaban\;(D)\end{align*}</p>
-</li>
-<li>
-<p>Turunan pertama fungsi $f(x)= \frac{4x-3}{-x-1}\:;\:x\neq-1$ adalah $f ‘(x) = $ ….</p>
-<p>a. $\frac{1}{(-x-1)^2}$</p>
-<p>b. $\frac{5}{(-x-1)^2}$</p>
-<p>c. $\frac{-7}{(-x-1)^2}$</p>
-<p>d. $\frac{1}{(4x-3)^2}$</p>
-<p>e. $\frac{7}{(4x-3)^2}$</p>
-<p>Jawab :</p>
-<p>$\Large f(x)= \frac{4x-3}{-x-1}$</p>
-<p>\begin{array}{rcl} misalkan:u=4x-3 &amp; maka &amp; u'=4 \\ v=-x-1 &amp; maka &amp; v'= -1 \end{array}</p>
-<p>Maka :</p>
-<p>\begin{align*} f'(x) &amp; = &amp; \frac {u'.v - v'.u}{v^2}\\ &amp; = &amp; \frac {(4)(-x-1) - (-1)(4x-3)}{(-x-1)^2}\\ &amp; = &amp; \frac {-4x-4+4x-3}{(-x-1)^2}\\ &amp; = &amp; \frac {-7}{(-x -1)^2}\end{align*}</p>
-</li>
-<li>
-<p>Diketahui $f(x)=(3x+4)^4$ dan $f ‘(x)$ adalah turunan pertama dari $f(x)$. Maka nilai dari $f ‘(-1)$ = ….</p>
-<p>a. 4</p>
-<p>b. 12</p>
-<p>c. 16</p>
-<p>d. 84</p>
-<p>e. 112</p>
-<p>Jawab :</p>
-<p>$\large f(x)=(3x+4)^4$</p>
-<p>misalkan $u = 3x + 4$ maka $u’ = 3$ dan $n = 4$</p>
-<p>gunakan aturan rantai, maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; n.u^{n-1}. u'\\ &amp; = &amp; 4.(3x + 4)^{4-1}.3\\ &amp; = &amp; 12(3x+4)^3\\ f'(-1) &amp; = &amp; 12(3(-1)+4)^3\\ &amp; = &amp; 12(-3+4)^3\\ &amp; = &amp; 12\end{align*}</p>
-</li>
-<li>
-<p>Turunan pertama fungsi $\large f(x)=x^2-3x+\frac{4}{x^2}$ adalah $f ‘(x)$ = ….</p>
-<p>a. $f(x)=x-3+\frac{4}{x^2}$</p>
-<p>b. $f(x)=x-3+\frac{4}{x^3}$</p>
-<p>c. $f(x)=2x-3-\frac{8}{x}$</p>
-<p>d. $f(x)=2x-3-\frac{4}{x^3}$</p>
-<p>e. $f(x)=2x-3-\frac{8}{x^3}$</p>
-<p>Jawab :</p>
-<p>$f(x)=x^2-3x+\frac{4}{x^2}$ nyatakan dalam bentuk pangkat</p>
-<p>$f(x)=x^2-3x+4.x^{-2}$</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 2x - 3+4(-2).x^{-2-1}\\ &amp; = &amp; 2x-3-8x^{-3}\\ &amp; = &amp; 2x-3-\frac{8}{x^3}\:jawaban(E)\end{align*}</p>
-</li>
-<li>
-<p>Turunan pertama dari $(x)=6x\sqrt x $ adalah $f ‘(x)$ = …</p>
-<p>a. $3 \sqrt x$</p>
-<p>b. $5 \sqrt x$</p>
-<p>c. $6\sqrt x$</p>
-<p>d. $9\sqrt x$</p>
-<p>e. $12\sqrt x$</p>
-<p>Jawab :</p>
-<p>$f(x)=6x \sqrt x$ nyatakan dalam bentuk pangkat</p>
-<p>$f(x)=6x^{\frac 32}$</p>
-<p>Maka :</p>
-<p>\begin{align*}f'(x) &amp; = &amp; 6.(\frac 32).x^{\frac 32 -1}\\ &amp; = &amp; 9.x^{\frac 12}\\ &amp; = &amp; 9\sqrt x\:\end{align*}</p>
-<p>jawaban(D)</p>
-</li>
-</ol>
-<p>coba soal-soal berikutnya juga yah….</p>
-</div>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/E6r5vBKoDxo" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Statistika 2</title>
+        <title>[video] - Limit Fungsi Trigonometri Dasar</title>
         <author>
             <name>tiena</name>
         </author>
-        <link href="http://www.meetmath.com/14625-materi-statistika-2.html"/>
-        <id>http://www.meetmath.com/14625-materi-statistika-2.html</id>
-            <category term="Statistika"/>
+        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-dasar.html"/>
+        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-dasar.html</id>
+            <category term="Video"/>
+            <category term="Limit"/>
 
-        <updated>2018-03-17T07:08:19+07:00</updated>
+        <updated>2018-03-20T04:27:13+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Materi statistika 2 merupakan kelanjutan dari <a href="../../../../../02180-materi-statistika.html" title="Statistika 1">Statistika 1</a>, sebelumnya telah kita punya rangkuman rumus statistika dan contoh soal pada data tunggal, nah sekarang kita akan berlatih contoh soal data berkelompok yuk…</p>
-<p>Diketahui data sebagai berikut :</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>fi</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-</tr>
-</tbody>
-</table>
-<p>Tentukanlah rataan, median, modus, kuartil pertama ($Q_1$) dan desil ke delapan ($D_8$) !</p>
-<p>jawab:</p>
-<ol>
-<li>
-<p>Untuk mencari rataan kita buat kolom bantuan $x_i$ yaitu nilai tengah dan $f_i.x_i$ sebagai berikut :</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>$fi$</th>
-<th>$xi$</th>
-<th>$fi.xi$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-<td>12</td>
-<td>36</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-<td>17</td>
-<td>102</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-<td>22</td>
-<td>198</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-<td>27</td>
-<td>216</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-<td>32</td>
-<td>128</td>
-</tr>
-<tr>
-<td>$\sum$</td>
-<td>30</td>
-<td> </td>
-<td>680</td>
-</tr>
-</tbody>
-</table>
-<p>\begin{array}{rcl}\bar{x} &amp; = &amp; \frac{\sum f_{i}.x_{i}}{\sum f_i}\\ &amp; = &amp; \frac{680}{30}\\ &amp; = &amp; 22,67\end{array}</p>
-</li>
-<li>
-<p>untuk mencari median kita buat kolom tambahan $f_k$ yaitu frekuensi kumulatif sebagai berikut :</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>$fi$</th>
-<th>$fk$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-<td>9</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-<td>18</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-<td>26</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-<td>30</td>
-</tr>
-<tr>
-<td>$\sum$</td>
-<td>30</td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p>kita tentukan kelas median terlebih dulu, $\frac n2=\frac{30}{2}=15$ (lihat $f_{k}$-nya) data ke $15$ terletak di kelas ke $3$ dimana:</p>
-<p>$T_B=20-0,5=19,5$</p>
-<p>$i=5$</p>
-<p>$f_k=9$ ingat $f_k$ disini adalah frekuensi kumulatif sebelum kelas ke $3$</p>
-<p>$f_{Me}=9$ lihat $f_i$ kelas ke $3$</p>
-<p>maka :</p>
-<p>\begin{array}{rcl}Me &amp; = &amp; T_B+ \frac {\frac {n}{2}-f_{k}}{f_{Me}}.i\\ &amp; = &amp; 19,5+\frac{15-9}{9}.5\\ &amp; = &amp; 19,5+\frac {6}{9}.5\\ &amp; = &amp; 19,5+3,33\\ &amp; = &amp; 22,83\end{array}</p>
-</li>
-<li>
-<p>untuk mencari modus, tidak dibutuhkan kolom tambahan sehingga perhatikan tabel soal</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>$fi$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-</tr>
-<tr>
-<td>$\sum$</td>
-<td>30</td>
-</tr>
-</tbody>
-</table>
-<p>kita tentukan kelas modus terlebih dulu, kelas dengan frekuensi terbesar yaitu kelas ke $3$</p>
-<p>$T_B=20-0,5=19,5$</p>
-<p>$i=5$</p>
-<p>$d_1=9-6=3$ ingat selisih kelas ke $3$ dengan kelas ke $2$</p>
-<p>$d_2=9-8=1$ ingat selisih kelas ke $3$ dengan kelas ke $4$</p>
-<p>maka</p>
-<p>\begin{array}{rcl}Mo &amp; = &amp; T_B+\frac{d_{1}}{d_{1}+d_{2}}.i\\ &amp; = &amp; 19,5+\frac{3}{3+1}.5\\ &amp; = &amp; 19,5+\frac{3}{4}.5\\ &amp; = &amp; 19,5+3,75\\ &amp; = &amp; 23,25\end{array}</p>
-</li>
-<li>
-<p>untuk mencari kuartil pertama kita pakai tabel untuk mencari median</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>$fi$</th>
-<th>$fk$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-<td>9</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-<td>18</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-<td>26</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-<td>30</td>
-</tr>
-<tr>
-<td>$\sum$</td>
-<td>30</td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p>kita tentukan kelas $Q_1$ terlebih dulu, $\frac {i.n}{4}=\frac{1.30}{4}=7,5$ , (lihat $f_{k}$ -nya) data ke 7,5 terletak di kelas ke $2$ dimana:</p>
-<p>$T_B=15-0,5=14,5$</p>
-<p>$i=5$</p>
-<p>$f_k=3$ ingat $f_k$ disini adalah frekuensi kumulatif sebelum kelas ke $2$ (kelas $Q_1$)</p>
-<p>$f_{Q1}=6 lihat f_i$ kelas ke $2$</p>
-<p>maka</p>
-<p>\begin{array}{rcl}Q_1 &amp; = &amp; T_B+\frac{\frac {i.n}{4}-f_k}{f_Q}.i\\ &amp; = &amp; 14,5+\frac{7,5-3}{6}.5\\ &amp; = &amp; 14,5+\frac{4,5}{6}.5\\ &amp; = &amp; 14,5+3,75\\ &amp; = &amp; 18,25\end{array}</p>
-</li>
-<li>
-<p>untuk mencari desil ke $8$ kita pakai tabel untuk mencari median</p>
-<table>
-<thead>
-<tr>
-<th>Nomor</th>
-<th>$fi$</th>
-<th>$fk$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>10 – 14</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>15 – 19</td>
-<td>6</td>
-<td>9</td>
-</tr>
-<tr>
-<td>20 – 24</td>
-<td>9</td>
-<td>18</td>
-</tr>
-<tr>
-<td>25 – 29</td>
-<td>8</td>
-<td>26</td>
-</tr>
-<tr>
-<td>30 – 34</td>
-<td>4</td>
-<td>30</td>
-</tr>
-<tr>
-<td>$\sum$</td>
-<td>30</td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p>kita tentukan kelas $D_8$ terlebih dulu,$ \frac{i.n}{10}=\frac{8.30}{10}=24$ ,(lihat $f_{k}$-nya) data ke $24$ terletak di kelas ke $4$ dimana:</p>
-<p>$T_B=25-0,5=24,5$</p>
-<p>$i=5$</p>
-<p>$f_k=18$ ingat $f_k$ disini adalah frekuensi kumulatif sebelum kelas ke $4$ (kelas $D_8$)</p>
-<p>$f_{D8}=8$ lihat $f_i$ kelas ke $4$</p>
-<p>maka</p>
-<p>\begin{array}{rcl}D_8 &amp; = &amp; T_B+\frac{\frac {i.n}{10}-f_k}{f_D}.i\\ &amp; = &amp; 24,5+\frac{24-18}{8}.5\\ &amp; = &amp; 24,5+\frac{6}{8}.5\\ &amp; = &amp; 24,5+3,75\\ &amp; = &amp; 28,25\end{array}</p>
-</li>
-</ol>
-<p>oke…selamat mencoba….</p>
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/N-PdDanqMtw" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
