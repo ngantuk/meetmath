@@ -73,7 +73,7 @@ html {
         font-size: 1.2rem; } }
 
 body {
-  background: rgba(17, 17, 17, 0.04);
+  background: rgba(255, 255, 255, 0.04);
   color: #111111;
   font-family: "Heebo", sans-serif;
   font-weight: 400;
@@ -494,7 +494,7 @@ textarea {
   background: #ffffff;
   margin: 0 auto;
   max-width: 66rem;
-  overflow: hidden;
+  overflow: auto;
   padding: 2% 4%; }
   .container > header {
     -webkit-box-align: center;
