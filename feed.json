@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "http://www.meetmath.com/461063-materi-dimensi-tiga-kubus.html",
+            "url": "http://www.meetmath.com/461063-materi-dimensi-tiga-kubus.html",
+            "title": "Dimensi Tiga : Kubus",
+            "content_html": "<p>Materi Dimensi Tiga mencakup tentang jarak, sudut pada bangun ruang.</p>\n<p>Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah Kubus . Pasti dengar namanya saja udah bisa membayangkan bentuknya kan… ?</p>\n<p>Nah, mari kita kupas tentang sifat-sifat si Kubus ini !</p>\n<p>KUBUS ABCD.EFGH<img src=\"http://www.meetmath.com/media/posts/1/kubus01.jpg\" alt=\"\" width=\"585\" height=\"303\"></p>\n<p>Dalam kubus ABCD.EFGH terdapat :</p>\n<p>12 rusuk contoh AB 12 diagonal sisi / diagonal bidang contoh EG 6 bidang / sisi contoh CDHG 6 bidang diagonal contoh ACGE 4 diagonal ruang contoh AG</p>\n<p>Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu yuuuuuuuuuk….</p>\n<ul>\n<li>kita akan cari diagonal sisi AC, perhatikan bidang ABCD (persegi)<br><br><img src=\"http://www.meetmath.com/media/posts/1/kubus.png\" alt=\"\" width=\"421\" height=\"326\"><br><br>\\begin{align}AC&amp;=&amp;\\sqrt{AB^2+BC^2}\\\\&amp;=&amp;\\sqrt{r^2+r^2}\\\\&amp;=&amp;\\sqrt{2r^2}\\\\&amp;=&amp;r\\sqrt 2\\end{align}</li>\n</ul>\n<p><br><br></p>\n<p> </p>\n<ul>\n<li>kita akan cari diagonal ruang AG, perhatikan bidang diagonal ACGE (persegi panjang)<br><img src=\"http://www.meetmath.com/media/posts/1/kubus2.jpg\" alt=\"\" width=\"326\" height=\"293\"><br>\\begin{align}AG&amp;=&amp;\\sqrt{AC^2+CG^2}\\\\&amp;=&amp;\\sqrt{(r\\sqrt 2)^2+r^2}\\\\&amp;=&amp;\\sqrt{2r^2+r^2}\\\\&amp;=&amp;\\sqrt{3r^2}\\\\&amp;=&amp;r\\sqrt 3\\end{align}</li>\n</ul>\n<p> </p>\n<p>Kita rangkum Rumus Kubus dengan rusuk = r</p>\n<blockquote>\n<p>diagonal sisi kubus = $r\\sqrt 2$</p>\n<p>diagonal ruang kubus = $r\\sqrt 3$</p>\n<p>Luas permukaan kubus = $6.r^2$</p>\n<p>Volume kubus = $r^3$</p>\n</blockquote>\n<p>Contoh soal :</p>\n<ol>\n<li>\n<p>Jika diketahui kubus dengan diagonal sisinya $2\\sqrt 6 cm$ , tentukan diagonal ruang kubus !</p>\n<p>jawab :</p>\n<p>pertama kita cari rusuk nya dulu ya,</p>\n<p>\\begin{align*}diag.sisi&amp;=&amp;2\\sqrt 6\\\\r\\sqrt 2&amp;=&amp;2\\sqrt 6\\\\r&amp;=&amp;\\frac{2\\sqrt 6}{\\sqrt 2}\\\\r&amp;=&amp;2\\sqrt 3 \\end{align*} </p>\n<p>maka diagonal ruang kubus :</p>\n<p>\\begin{align*}diag.ruang&amp;=&amp;{\\color{Red} r}\\sqrt 3\\\\&amp;=&amp;({\\color{Red} 2\\sqrt 3})\\sqrt 3\\\\&amp;=&amp;2.3\\\\&amp;=&amp;6 \\end{align*}<br> </p>\n</li>\n<li>\n<p>Jika diketahui kubus ABCD.EFGH dengan rusuk $5 cm$, tentukan luas BDHF !</p>\n<p>jawab :</p>\n<p>perhatikan BDHF (bidang diagonal) dengan BF = 5 cm (rusuk) dan BD = $5\\sqrt 2 cm$ (diagonal sisi)</p>\n<p>maka luas BDHF</p>\n<p>\\begin{align*}L_{BDHF}&amp;=&amp;BD\\times BF\\\\&amp;=&amp;5\\sqrt 2\\times 5\\\\&amp;=&amp;25\\sqrt 2\\;\\;cm^2\\end{align*} </p>\n</li>\n<li>\n<p>Jika diketahui kubus dengan diagonal sisi 6 cm, tentukan Volume kubus tersebut !</p>\n<p>jawab :</p>\n<p>pertama kita cari rusuknya ya.. <br>\\begin{align*}diag.sisi&amp;=&amp;6\\\\r\\sqrt 2&amp;=&amp;6\\\\r&amp;=&amp;\\frac{6}{\\sqrt 2}.\\frac{\\sqrt 2}{\\sqrt 2}\\\\&amp;=&amp;\\frac{6}{2}\\sqrt 2\\\\r&amp;=&amp;3\\sqrt 2\\end{align*}<br><br>maka volume kubus :<br>\\begin{align*}V&amp;=&amp;r^3\\\\&amp;=&amp;(3\\sqrt 2)^3\\\\&amp;=&amp;27.2\\sqrt 2\\\\&amp;=&amp;54\\sqrt 2\\;\\;cm^3\\end{align*}<br><br></p>\n</li>\n</ol>\n<p>Sekarang kita masuk ke contoh soal yang berkaitan dengan jarak dan sudut pada bangun ruang…..yuk</p>\n<p>Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut</p>\n<ol>\n<li>\n<p>Pada kubus ABCD.EFGH dengan rusuk 4 cm, tentukan jarak titik B ke garis EG !</p>\n<p>jawab :</p>\n<img src=\"http://www.meetmath.com/media/posts/1/kubus0.jpg\" alt=\"\" width=\"285\" height=\"271\">\n<p>titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = $4\\sqrt 2 cm$</p>\n<p>proyeksi titik B di garis EG adalah titik P (di tengah EG) sehingga GP = $2\\sqrt 2 cm$</p>\n<p>jarak yang akan kita cari adalah panjang garis BP</p>\n<p>maka :</p>\n<p> </p>\n</li>\n<li>\n<p>Pada kubus ABCD.EFGH tentukan jarak titik A ke garis CE !</p>\n<p>jawab :</p>\n<img src=\"http://www.meetmath.com/media/posts/1/kubus0.jpg\" alt=\"\" width=\"285\" height=\"271\">\n<ul>\n<li>titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC</li>\n<li>perhatikan bahwa AE adalah rusuk, kita misalkan AE = r , sedangkan AC adalah diagonal sisi maka kita misalkan $AC = r\\sqrt 2$</li>\n<li>proyeksi titik A di garis EC adalah titik Q ( AQ tegak lurus EC)</li>\n<li>jarak yang akan kita cari adalah panjang garis AQ</li>\n</ul>\n<p>perhatikan segitiga AQE dan segitiga CAE kita gunakan perbandingan sisi</p>\n</li>\n</ol>",
+            "author": {
+                "name": "tiena"
+            },
+            "tags": [
+                   "DimensiTiga"
+            ],
+            "date_published": "2018-03-28T23:33:00+07:00",
+            "date_modified": "2018-03-28T23:33:00+07:00"
+        },
+        {
             "id": "http://www.meetmath.com/a-kubus.html",
             "url": "http://www.meetmath.com/a-kubus.html",
             "title": "A. KUBUS",
@@ -141,21 +155,6 @@
             ],
             "date_published": "2018-03-20T04:29:17+07:00",
             "date_modified": "2018-03-20T04:29:17+07:00"
-        },
-        {
-            "id": "http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html",
-            "url": "http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html",
-            "title": "[video] - Limit Fungsi Trigonometri - Contoh 2",
-            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jl3ebez57JQ\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
-            "author": {
-                "name": "tiena"
-            },
-            "tags": [
-                   "Video",
-                   "Limit"
-            ],
-            "date_published": "2018-03-20T04:28:41+07:00",
-            "date_modified": "2018-03-20T04:28:41+07:00"
         }
     ]
 }

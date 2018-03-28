@@ -3,12 +3,100 @@
     <title>meetmath</title>
     <link href="http://www.meetmath.com/feed.xml" rel="self" />
     <link href="http://www.meetmath.com" />
-    <updated>2018-03-28T18:08:39+07:00</updated>
+    <updated>2018-03-28T18:14:21+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
     <id>http://www.meetmath.com</id>
 
+    <entry>
+        <title>Dimensi Tiga : Kubus</title>
+        <author>
+            <name>tiena</name>
+        </author>
+        <link href="http://www.meetmath.com/461063-materi-dimensi-tiga-kubus.html"/>
+        <id>http://www.meetmath.com/461063-materi-dimensi-tiga-kubus.html</id>
+            <category term="DimensiTiga"/>
+
+        <updated>2018-03-28T23:33:00+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Materi Dimensi Tiga mencakup tentang jarak, sudut pada bangun ruang.</p>
+<p>Untuk itulah kita wajib tau tiap bangun ruang . Target kita yang pertama adalah Kubus . Pasti dengar namanya saja udah bisa membayangkan bentuknya kan… ?</p>
+<p>Nah, mari kita kupas tentang sifat-sifat si Kubus ini !</p>
+<p>KUBUS ABCD.EFGH<img src="http://www.meetmath.com/media/posts/1/kubus01.jpg" alt="" width="585" height="303"></p>
+<p>Dalam kubus ABCD.EFGH terdapat :</p>
+<p>12 rusuk contoh AB 12 diagonal sisi / diagonal bidang contoh EG 6 bidang / sisi contoh CDHG 6 bidang diagonal contoh ACGE 4 diagonal ruang contoh AG</p>
+<p>Yuuuk kita cari rumus diagonal sisi dan diagonal ruang pada kubus ABCD.EFGH dulu yuuuuuuuuuk….</p>
+<ul>
+<li>kita akan cari diagonal sisi AC, perhatikan bidang ABCD (persegi)<br><br><img src="http://www.meetmath.com/media/posts/1/kubus.png" alt="" width="421" height="326"><br><br>\begin{align}AC&amp;=&amp;\sqrt{AB^2+BC^2}\\&amp;=&amp;\sqrt{r^2+r^2}\\&amp;=&amp;\sqrt{2r^2}\\&amp;=&amp;r\sqrt 2\end{align}</li>
+</ul>
+<p><br><br></p>
+<p> </p>
+<ul>
+<li>kita akan cari diagonal ruang AG, perhatikan bidang diagonal ACGE (persegi panjang)<br><img src="http://www.meetmath.com/media/posts/1/kubus2.jpg" alt="" width="326" height="293"><br>\begin{align}AG&amp;=&amp;\sqrt{AC^2+CG^2}\\&amp;=&amp;\sqrt{(r\sqrt 2)^2+r^2}\\&amp;=&amp;\sqrt{2r^2+r^2}\\&amp;=&amp;\sqrt{3r^2}\\&amp;=&amp;r\sqrt 3\end{align}</li>
+</ul>
+<p> </p>
+<p>Kita rangkum Rumus Kubus dengan rusuk = r</p>
+<blockquote>
+<p>diagonal sisi kubus = $r\sqrt 2$</p>
+<p>diagonal ruang kubus = $r\sqrt 3$</p>
+<p>Luas permukaan kubus = $6.r^2$</p>
+<p>Volume kubus = $r^3$</p>
+</blockquote>
+<p>Contoh soal :</p>
+<ol>
+<li>
+<p>Jika diketahui kubus dengan diagonal sisinya $2\sqrt 6 cm$ , tentukan diagonal ruang kubus !</p>
+<p>jawab :</p>
+<p>pertama kita cari rusuk nya dulu ya,</p>
+<p>\begin{align*}diag.sisi&amp;=&amp;2\sqrt 6\\r\sqrt 2&amp;=&amp;2\sqrt 6\\r&amp;=&amp;\frac{2\sqrt 6}{\sqrt 2}\\r&amp;=&amp;2\sqrt 3 \end{align*} </p>
+<p>maka diagonal ruang kubus :</p>
+<p>\begin{align*}diag.ruang&amp;=&amp;{\color{Red} r}\sqrt 3\\&amp;=&amp;({\color{Red} 2\sqrt 3})\sqrt 3\\&amp;=&amp;2.3\\&amp;=&amp;6 \end{align*}<br> </p>
+</li>
+<li>
+<p>Jika diketahui kubus ABCD.EFGH dengan rusuk $5 cm$, tentukan luas BDHF !</p>
+<p>jawab :</p>
+<p>perhatikan BDHF (bidang diagonal) dengan BF = 5 cm (rusuk) dan BD = $5\sqrt 2 cm$ (diagonal sisi)</p>
+<p>maka luas BDHF</p>
+<p>\begin{align*}L_{BDHF}&amp;=&amp;BD\times BF\\&amp;=&amp;5\sqrt 2\times 5\\&amp;=&amp;25\sqrt 2\;\;cm^2\end{align*} </p>
+</li>
+<li>
+<p>Jika diketahui kubus dengan diagonal sisi 6 cm, tentukan Volume kubus tersebut !</p>
+<p>jawab :</p>
+<p>pertama kita cari rusuknya ya.. <br>\begin{align*}diag.sisi&amp;=&amp;6\\r\sqrt 2&amp;=&amp;6\\r&amp;=&amp;\frac{6}{\sqrt 2}.\frac{\sqrt 2}{\sqrt 2}\\&amp;=&amp;\frac{6}{2}\sqrt 2\\r&amp;=&amp;3\sqrt 2\end{align*}<br><br>maka volume kubus :<br>\begin{align*}V&amp;=&amp;r^3\\&amp;=&amp;(3\sqrt 2)^3\\&amp;=&amp;27.2\sqrt 2\\&amp;=&amp;54\sqrt 2\;\;cm^3\end{align*}<br><br></p>
+</li>
+</ol>
+<p>Sekarang kita masuk ke contoh soal yang berkaitan dengan jarak dan sudut pada bangun ruang…..yuk</p>
+<p>Latihan soal bangun ruang yang berkaitan dengan jarak dan sudut</p>
+<ol>
+<li>
+<p>Pada kubus ABCD.EFGH dengan rusuk 4 cm, tentukan jarak titik B ke garis EG !</p>
+<p>jawab :</p>
+<img src="http://www.meetmath.com/media/posts/1/kubus0.jpg" alt="" width="285" height="271">
+<p>titik B dan garis EG berada dalam satu bidang yaitu segitiga BEG(sama sisi) perhatikan bahwa BE , BG dan EG adalah diagonal sisi sehingga BE = BG = EG = $4\sqrt 2 cm$</p>
+<p>proyeksi titik B di garis EG adalah titik P (di tengah EG) sehingga GP = $2\sqrt 2 cm$</p>
+<p>jarak yang akan kita cari adalah panjang garis BP</p>
+<p>maka :</p>
+<p> </p>
+</li>
+<li>
+<p>Pada kubus ABCD.EFGH tentukan jarak titik A ke garis CE !</p>
+<p>jawab :</p>
+<img src="http://www.meetmath.com/media/posts/1/kubus0.jpg" alt="" width="285" height="271">
+<ul>
+<li>titik A dan garis EC berada dalam satu bidang yaitu segitiga AEC</li>
+<li>perhatikan bahwa AE adalah rusuk, kita misalkan AE = r , sedangkan AC adalah diagonal sisi maka kita misalkan $AC = r\sqrt 2$</li>
+<li>proyeksi titik A di garis EC adalah titik Q ( AQ tegak lurus EC)</li>
+<li>jarak yang akan kita cari adalah panjang garis AQ</li>
+</ul>
+<p>perhatikan segitiga AQE dan segitiga CAE kita gunakan perbandingan sisi</p>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A. KUBUS</title>
         <author>
@@ -260,24 +348,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/kJT1wlX0W5E" allowfullscreen="allowfullscreen"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[video] - Limit Fungsi Trigonometri - Contoh 2</title>
-        <author>
-            <name>tiena</name>
-        </author>
-        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html"/>
-        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-2.html</id>
-            <category term="Video"/>
-            <category term="Limit"/>
-
-        <updated>2018-03-20T04:28:41+07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jl3ebez57JQ" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
