@@ -3,12 +3,140 @@
     <title>meetmath</title>
     <link href="http://www.meetmath.com/feed.xml" rel="self" />
     <link href="http://www.meetmath.com" />
-    <updated>2018-03-27T23:37:24+07:00</updated>
+    <updated>2018-03-28T18:08:39+07:00</updated>
     <author>
         <name>tiena</name>
     </author>
     <id>http://www.meetmath.com</id>
 
+    <entry>
+        <title>A. KUBUS</title>
+        <author>
+            <name>tiena</name>
+        </author>
+        <link href="http://www.meetmath.com/a-kubus.html"/>
+        <id>http://www.meetmath.com/a-kubus.html</id>
+            <category term="DimensiTiga"/>
+
+        <updated>2018-03-28T18:08:21+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>A. JARING-JARING KUBUS</p>
+<p><img src="http://www.meetmath.com/media/posts/58/jaring-kubus.gif" alt="" width="640" height="360"></p>
+<p>B. Bagian-bagian dalam sebuah KUBUS</p>
+<p>1. Rusuk Kubus = 12 buah</p>
+<p><img src="http://www.meetmath.com/media/posts/58/rusuk.gif" alt="" width="640" height="360"></p>
+<ul style="list-style-type: circle;">
+<li>Panjang Rusuk Kubus = <em>r  </em>cm</li>
+<li>Sehingga Panjang AB = BC = CD=DA=EF=FG=GH=EH=AE=BF=CG=DH = <em>r </em>cm</li>
+</ul>
+<p>2. Diagonal Sisi Kubus = 12 buah</p>
+<p><img src="http://www.meetmath.com/media/posts/58/diagonal-sisi.gif" alt="" width="640" height="360"></p>
+<ul style="list-style-type: circle;">
+<li>Panjang rusuk Kubus = <em>r</em> cm </li>
+<li>Maka panjang diagonal sisinya = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif" alt="" width="33" height="19">  cm</li>
+<li>Sehingga panjang AF=BE=BG=CF=CH=DG=AH=DE=FH=EG=AC=BD= <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif" alt="" width="33" height="19"> cm</li>
+</ul>
+<p>3. Diagonal Ruang Kubus = 4 buah</p>
+<p><img src="http://www.meetmath.com/media/posts/58/diag-sisi.gif" alt="" width="640" height="360"></p>
+<ul style="list-style-type: circle;">
+<li>Panjang Rusuk kubus = <em>r</em> cm</li>
+<li>Maka panjang Diagonal Ruang Kubus =  <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-4.gif" alt="" width="33" height="19"> </li>
+<li>Sehingga panjang AG=BH=CE=DF = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-4.gif" alt="" width="33" height="19">  cm</li>
+</ul>
+<p>4. Bidang Sisi Kubus = 6 buah</p>
+<p><img src="http://www.meetmath.com/media/posts/58/bidang-sisi.gif" alt="" width="640" height="360"></p>
+<ul style="list-style-type: circle;">
+<li>Panjang rusuk kubus = r cm</li>
+<li>Maka Luas Bidang sisi Kubus = (r x r) = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-2.gif" alt="" width="15" height="16">  </li>
+<li>Sehingga Luas ABCD=Luas EFGH=Luas ABFE=Luas BCGF=Luas CDHG = Luas ADHE=  <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-2.gif" alt="" width="15" height="16"> </li>
+</ul>
+<p>5. Bidang Diagonal Kubus = 6 buah</p>
+<p><img src="http://www.meetmath.com/media/posts/58/bidang-diagonal.gif" alt="" width="640" height="360"></p>
+<ul style="list-style-type: circle;">
+<li>Panjang rusuk kubus = <em>r</em> cm</li>
+<li>Panjang diagonal sisi kubus = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-3.gif" alt="" width="33" height="19"></li>
+<li>Maka Luas Bidang diagonal kubus = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-5.gif" alt="" width="40" height="19"></li>
+<li>Sehingga Luas ACGE= Luas BDHF = Luas ABGH = Luas BCHE= Luas CDEF = Luas ADGF = <img src="http://www.meetmath.com/media/posts/58/CodeCogsEqn-5.gif" alt="" width="40" height="19"></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>1. Kedudukan Titik, Garis, dan Bidang </title>
+        <author>
+            <name>tiena</name>
+        </author>
+        <link href="http://www.meetmath.com/1-titik-garis-dan-bidang.html"/>
+        <id>http://www.meetmath.com/1-titik-garis-dan-bidang.html</id>
+            <category term="DimensiTiga"/>
+
+        <updated>2018-03-28T18:08:29+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Dalam geometri, Titik disimbolkan dengan noktah dimana titik itu sendiri tidak mempunyai ukuran,tidak mempunyai panjang maupun luas apalagi volume </p>
+<p class="align-left">Garis merupakan himpunan titik-titik yang mempunyai ukuran panjang</p>
+<p class="align-left">Sedangkan Bidang merupakan himpunan garis-garis yang mempunyai ukuran panjang dan lebar</p>
+<p class="align-left">A. Kedudukan Titik, Garis, dan Bidang</p>
+<p class="align-left">1. Kedudukan Titik Terhadap Garis</p>
+<p class="align-left">a. Titik terletak Pada Garis, dapat diartikan juga bahwa, garis melalui titik tersebut.</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-titik-dalam-garis.gif" alt="" width="640" height="360"></p>
+<p class="align-left">b. Titik terletak di Luar Garis, dapat diartikan juga bahwa, garis tidak melalui titik tersebut</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-titik-diluar-garis.gif" alt="" width="640" height="360">    </p>
+<p class="align-left">2. Kedudukan Titik Terhadap Bidang</p>
+<p class="align-left">a. Titik terletak pada Bidang, dapat diartikan juga bahwa, bidang melalui titik tersebut.</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-titik-dalam-bidang.gif" alt="" width="640" height="360"> </p>
+<p class="align-left">b. Titik terletak di Luar Bidang</p>
+<p class="align-left">    dapat diartikan juga bahwa, bidang sama sekali tidak melalui titik tersebut. </p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-titik-diluar-bidang.gif" alt="" width="640" height="360"></p>
+<p class="align-left">3. Kedudukan Garis Terhadap Garis</p>
+<p class="align-left">a. Dua Garis saling Berhimpit jika terdapat lebih dari satu titik persekutuan (titik potong)</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-garis-berimpit.gif" alt="" width="640" height="360"> </p>
+<p class="align-left">b. Dua Garis saling Berpotongan jika terdapat tepat satu titik persekutuan (titik potong)</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-garis-berpotongan.gif" alt="" width="640" height="360"></p>
+<p class="align-left">c. Dua Garis saling Sejajar jika tidak ada satupun titik persekutuan</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-garis-sejajar.gif" alt="" width="640" height="360"></p>
+<p class="align-left">d. Dua Garis saling Bersilangan jika tidak saling Berpotongan, tidak saling Sejajar dan tidak terletak pada satu bidang</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-garis-bersilangan.gif" alt="" width="640" height="360"></p>
+<p class="align-left">4. Kedudukan Garis Terhadap Bidang</p>
+<p class="align-left">a. Garis Terletak pada Bidang jika terdapat lebih dari satu titik persekutuan</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-garis-dalam-bidang.gif" alt="" width="640" height="360"></p>
+<p class="align-left">b. Garis Sejajar pada Bidang jika sama sekali tidak terdapat titik persekutuan</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-garis-sejajar-bidang.gif" alt="" width="640" height="360"></p>
+<p class="align-left">c. Garis Berpotongan pada Bidang jika terdapat tepat satu titik persekutuan (titik tembus)</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-garis-memotong-bidang.gif" alt="" width="640" height="360"> </p>
+<p class="align-left">5. Kedudukan Bidang terhadap Bidang</p>
+<p class="align-left">a. Dua Bidang saling Berimpit, jika setiap titik di satu Bidang, juga terletak pada Bidang lainya</p>
+<p class="align-left"><img src="http://www.meetmath.com/media/posts/52/NEW-bidang-berimpit.gif" alt="" width="640" height="360"> </p>
+<p class="align-left">b. Dua Bidang saling Sejajar, jika tidak ditemukan satupun titik persekutuan</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-bidang-sejajar.gif" alt="" width="640" height="360"></p>
+<p class="align-left">c. Dua Bidang saling Berpotongan, jika terdapat tepat satu garis persekutuan</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-bidang-berpotongan.gif" alt="" width="640" height="360"></p>
+<p class="align-left">B. Titik, Garis dan Bidang pada Kubus</p>
+<p class="align-left">Perhatikan Kubus ABCD.EFGH di bawah ini :</p>
+<p class="align-left"> <img src="http://www.meetmath.com/media/posts/52/NEW-kubus.gif" alt="" width="640" height="360"></p>
+<p class="align-left">A adalah sebuah Titik pada kubus ABCD.EFGH</p>
+<p class="align-left">AB adalah sebuah Garis pada kubus ABCD.EFGH disebut juga rusuk kubus </p>
+<p class="align-left">ABCD adalah sebuah Bidang pada kubus ABCD.EFGH disebut juga Bidang sisi kubus</p>
+<p class="align-left"> </p>
+<p class="align-left">Sekarang kita perhatikan contoh kedudukan Titik, Garis dan Bidang pada kubus ABCD.EFGH berikut :</p>
+<p class="align-left">1. Kedudukan Titik A dan garis AB = Titik A berada dalam garis AB</p>
+<p class="align-left">2. Kedudukan Titik E dan garis GH = Titik E berada di luar garis GH</p>
+<p class="align-left">3. Kedudukan Titik B dan Bidang ABCD = Titik B berada di dalam Bidang ABCD</p>
+<p class="align-left">4. Kedudukan Titik G dan Bidang ABFE = Titik G berada di luar bidang ABFE</p>
+<p class="align-left">5. Kedudukan garis AD dan garis FG = Garis AD sejajar garis FG</p>
+<p class="align-left">6. Kedudukan Garis DH dan Garis GH = Garis DH Berpotongan dengan garis GH (yaitu di titik H) lebih tepatnya Garis DH Saling Tegak Lurus dengan garis GH</p>
+<p class="align-left">7. Kedudukan Garis AC dan Bidang ABCD = Garis AC Berpotongan dengan bidang ABCD di titik C</p>
+<p class="align-left">8. Kedudukan Garis AB dan garis CG = Garis AB Bersilangan dengan garis CG</p>
+<p class="align-left">9. Kedudukan Bidang ABCD dan Bidang EFGH = Bidang ABCD sejajar bidang EFGH</p>
+<p class="align-left">10. Kedudukan Bidang BDHF dan bidang ABFE = Bidang BDHF Berpotongan dengan bidang ABFE di garis BF</p>
+<p class="align-left"> </p>
+<p class="align-left"> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>[video] - Logaritma - Soal 1</title>
         <author>
@@ -150,42 +278,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jl3ebez57JQ" allowfullscreen="allowfullscreen"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[video] - Limit Fungsi Trigonometri - Contoh 1</title>
-        <author>
-            <name>tiena</name>
-        </author>
-        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-1.html"/>
-        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-contoh-1.html</id>
-            <category term="Video"/>
-            <category term="Limit"/>
-
-        <updated>2018-03-20T04:28:01+07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/E6r5vBKoDxo" allowfullscreen="allowfullscreen"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[video] - Limit Fungsi Trigonometri Dasar</title>
-        <author>
-            <name>tiena</name>
-        </author>
-        <link href="http://www.meetmath.com/video-limit-fungsi-trigonometri-dasar.html"/>
-        <id>http://www.meetmath.com/video-limit-fungsi-trigonometri-dasar.html</id>
-            <category term="Video"/>
-            <category term="Limit"/>
-
-        <updated>2018-03-20T04:27:13+07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/N-PdDanqMtw" allowfullscreen="allowfullscreen"></iframe></figure>
             ]]>
         </content>
     </entry>
